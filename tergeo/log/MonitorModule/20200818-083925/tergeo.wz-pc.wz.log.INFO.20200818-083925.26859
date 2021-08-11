@@ -1,0 +1,22 @@
+Log file created at: 2020/08/18 08:39:25
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0818 08:39:25.368161 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0818 08:39:25.368635 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0818 08:39:25.369029 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0818 08:39:25.369329 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0818 08:39:25.369635 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0818 08:39:25.370517 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0818 08:39:25.371145 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0818 08:39:25.371454 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0818 08:39:25.372126 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0818 08:39:25.372603 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0818 08:39:25.372918 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0818 08:39:25.373322 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0818 08:39:25.374243 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0818 08:39:25.374532 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0818 08:39:25.374761 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0818 08:39:25.374938 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0818 08:39:25.375299 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/monitor/module_monitor/libtergeo_plugin_monitor_module_process.so
+I0818 08:39:25.376693 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/monitor/pipeline_task_service/libtergeo_plugin_service_pipeline_task_service.so
+I0818 08:39:25.455188 26859 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/monitor/monitor_module/libtergeo_monitor_module.so

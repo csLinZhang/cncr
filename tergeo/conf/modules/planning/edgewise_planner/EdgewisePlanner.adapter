@@ -1,0 +1,5 @@
+topic_config: {
+  name: "PerceptionRoadEdgeTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}

@@ -1,0 +1,12 @@
+Log file created at: 2020/08/04 11:23:59
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0804 11:23:59.584156 18791 frame.cpp:47] Loaded 7 areas.
+E0804 11:23:59.584306 18791 frame.cpp:48] Loaded 18 reflines.
+E0804 11:23:59.686058 18800 frame.cpp:88] localization data is outdated!
+E0804 11:23:59.785996 18801 frame.cpp:88] localization data is outdated!
+E0804 11:23:59.885984 18801 frame.cpp:88] localization data is outdated!
+E0804 11:23:59.985983 18801 frame.cpp:88] localization data is outdated!
+E0804 11:24:00.085986 18801 frame.cpp:88] localization data is outdated!
+E0804 11:24:00.185953 18801 frame.cpp:88] localization data is outdated!
+E0804 11:24:00.285995 18801 frame.cpp:88] localization data is outdated!

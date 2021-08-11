@@ -1,0 +1,22 @@
+Log file created at: 2021/03/11 19:53:57
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0311 19:53:57.983906 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0311 19:53:57.984329 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0311 19:53:57.984715 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0311 19:53:57.985019 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0311 19:53:57.985298 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0311 19:53:57.986070 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0311 19:53:57.986608 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0311 19:53:57.986879 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0311 19:53:57.987483 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0311 19:53:57.987915 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0311 19:53:57.988186 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0311 19:53:57.988538 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0311 19:53:57.989364 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0311 19:53:57.989607 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0311 19:53:57.989801 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0311 19:53:57.989953 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0311 19:53:57.990427 27748 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/vehicle/vehicle_module/libtergeo_vehicle_module.so
+E0311 19:53:58.007299 27748 tergeo_app.cpp:87] Error init module: VehicleModule
+E0311 19:53:58.007510 27748 status.h:49] 6006, Error create can adapter: CanUsbAdapter

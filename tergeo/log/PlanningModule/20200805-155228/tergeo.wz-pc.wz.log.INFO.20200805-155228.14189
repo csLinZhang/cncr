@@ -1,0 +1,155 @@
+Log file created at: 2020/08/05 15:52:28
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0805 15:52:28.589959 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0805 15:52:28.590803 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0805 15:52:28.591262 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0805 15:52:28.591552 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0805 15:52:28.591838 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0805 15:52:28.592664 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0805 15:52:28.593506 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0805 15:52:28.593814 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0805 15:52:28.594475 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0805 15:52:28.594933 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0805 15:52:28.595230 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0805 15:52:28.595613 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0805 15:52:28.596489 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0805 15:52:28.596755 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0805 15:52:28.596968 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0805 15:52:28.597136 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0805 15:52:28.679375 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0805 15:52:28.696290 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0805 15:52:28.699112 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0805 15:52:28.700754 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0805 15:52:28.703011 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0805 15:52:28.705175 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0805 15:52:28.706902 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0805 15:52:28.709260 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0805 15:52:28.711297 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0805 15:52:28.713577 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0805 15:52:28.713953 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0805 15:52:28.715747 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0805 15:52:28.718191 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0805 15:52:28.719997 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0805 15:52:28.722095 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0805 15:52:28.724478 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0805 15:52:28.726130 14189 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0805 15:52:28.811959 14189 frame.cpp:47] Loaded 7 areas.
+E0805 15:52:28.812394 14189 frame.cpp:48] Loaded 3 reflines.
+E0805 15:52:29.020195 14199 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0805 15:52:32.196396 14199 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0805 15:53:00.082180 14198 astar_global_planner.cpp:46] Goal point @ x: 1.43307 y: -1.2135 is out of costmap bound, Check it!
+E0805 15:53:00.169822 14197 astar_global_planner.cpp:46] Goal point @ x: 1.43307 y: -1.2135 is out of costmap bound, Check it!
+E0805 15:53:00.281260 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:00.367694 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:00.469168 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:00.561812 14198 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0805 15:53:00.580838 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:00.682495 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:01.279824 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:01.369748 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:01.470180 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:01.570071 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:01.670830 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:01.770387 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:01.870144 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:01.970580 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.069957 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.169874 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.269318 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.370653 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.469928 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.570324 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.680903 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.769410 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.869546 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:02.969836 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.070050 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.185173 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.269114 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.370113 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.469620 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.569629 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.670130 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.780272 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.870134 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:03.986366 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.068715 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.169243 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.269950 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.370501 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.469847 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.570544 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.672124 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.781641 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.868834 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:04.983551 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.068560 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.170310 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.269661 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.370684 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.469250 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.570129 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.669548 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.770244 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.869522 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:05.970183 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.069633 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.170228 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.270879 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.370633 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.470014 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.582938 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.681813 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.769275 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.869335 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:06.969367 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.069317 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.169843 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.269698 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.369050 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.467943 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.569819 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.669854 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.770138 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.869345 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:07.969398 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.069164 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.170585 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.269420 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.370025 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.470542 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.569766 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.669965 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.769531 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.869918 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:08.970424 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.068805 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.170234 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.269790 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.371706 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.470010 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.570412 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.670868 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.770139 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.869662 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:09.968925 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.069906 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.170804 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.270479 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.369882 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.470855 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.569952 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.670372 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.770187 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.869848 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:10.969781 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.068384 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.169656 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.270936 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.370604 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.469686 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.570109 14198 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.669464 14199 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.769575 14200 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!
+E0805 15:53:11.869519 14197 astar_global_planner.cpp:46] Goal point @ x: 1.21532 y: -0.877957 is out of costmap bound, Check it!

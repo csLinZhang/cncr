@@ -1,0 +1,6 @@
+Log file created at: 2020/08/26 14:34:36
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0826 14:34:36.604789 28183 frame.cpp:47] Loaded 10 areas.
+E0826 14:34:36.604948 28183 frame.cpp:48] Loaded 6 reflines.
+E0826 14:34:37.156677 28193 raccoon_planning.cpp:304] 15,31

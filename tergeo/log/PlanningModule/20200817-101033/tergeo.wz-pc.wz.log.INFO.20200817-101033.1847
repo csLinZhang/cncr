@@ -1,0 +1,51 @@
+Log file created at: 2020/08/17 10:10:33
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0817 10:10:33.096107  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0817 10:10:33.096585  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0817 10:10:33.096987  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0817 10:10:33.097295  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0817 10:10:33.097604  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0817 10:10:33.098500  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0817 10:10:33.099123  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0817 10:10:33.099434  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0817 10:10:33.100128  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0817 10:10:33.100615  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0817 10:10:33.100950  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0817 10:10:33.101362  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0817 10:10:33.102290  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0817 10:10:33.102581  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0817 10:10:33.102815  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0817 10:10:33.102996  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0817 10:10:33.189247  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0817 10:10:33.206151  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0817 10:10:33.208978  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0817 10:10:33.210230  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0817 10:10:33.211984  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0817 10:10:33.213690  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0817 10:10:33.215076  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0817 10:10:33.216634  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0817 10:10:33.218194  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0817 10:10:33.220031  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0817 10:10:33.220346  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0817 10:10:33.221716  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0817 10:10:33.223351  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0817 10:10:33.224720  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0817 10:10:33.226370  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0817 10:10:33.228229  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0817 10:10:33.229483  1847 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0817 10:10:33.295083  1847 frame.cpp:47] Loaded 10 areas.
+E0817 10:10:33.295218  1847 frame.cpp:48] Loaded 5 reflines.
+E0817 10:10:33.546984  1862 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0817 10:10:33.547091  1862 astar_global_planner.cpp:41] Start point @ x: 5.11915 y: -6.49114 is out of costmap bound, Check it!
+E0817 10:10:33.547174  1862 raccoon_planning.cpp:143] update task context failed!
+E0817 10:10:33.547389  1858 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0817 10:10:37.035220  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:39.736110  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:42.542093  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:45.341702  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:48.143239  1867 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:50.941387  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:53.742151  1867 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:56.542810  1865 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:59.343540  1865 teb_planner.cpp:185] TEBPlanner return abnormal result!

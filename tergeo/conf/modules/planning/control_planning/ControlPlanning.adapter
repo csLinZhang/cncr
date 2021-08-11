@@ -1,0 +1,10 @@
+topic_config: {
+  name: "ChassisInfoTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "ReferenceLineTopic"
+  mode: PUBLISH_ONLY
+  enable: true
+}

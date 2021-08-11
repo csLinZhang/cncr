@@ -1,0 +1,37 @@
+Log file created at: 2020/08/03 19:09:46
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 19:09:46.520797  3048 frame.cpp:47] Loaded 7 areas.
+E0803 19:09:46.520928  3048 frame.cpp:48] Loaded 17 reflines.
+E0803 19:09:46.604001  3059 frame.cpp:111] perception_obstacles data is outdated!
+E0803 19:09:46.604197  3056 frame.cpp:111] perception_obstacles data is outdated!
+E0803 19:09:46.703955  3057 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:46.704583  3057 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:46.804065  3058 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:46.804673  3058 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:46.903797  3059 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:46.904489  3059 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.003684  3056 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.004328  3056 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.103760  3057 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.104410  3057 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.203745  3058 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.204450  3058 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.303872  3059 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.304594  3059 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.404328  3057 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.404979  3057 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.504496  3056 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.505060  3056 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.604733  3059 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.605427  3059 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.703994  3058 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.704525  3058 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.804375  3057 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.805038  3057 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:47.904498  3059 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:47.904961  3059 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:48.004335  3057 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:48.004858  3057 pipeline_client.cpp:25] Error call GetNextTaskService
+E0803 19:09:48.104562  3059 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0803 19:09:48.105240  3059 pipeline_client.cpp:25] Error call GetNextTaskService

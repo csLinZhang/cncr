@@ -1,0 +1,10 @@
+Log file created at: 2020/08/18 13:52:13
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0818 13:52:13.523710  1120 frame.cpp:47] Loaded 10 areas.
+E0818 13:52:13.523872  1120 frame.cpp:48] Loaded 5 reflines.
+E0818 13:52:13.721247  1130 frame.cpp:102] chassis_info data is outdated!
+E0818 13:52:13.721504  1131 frame.cpp:102] chassis_info data is outdated!
+E0818 13:52:13.823881  1129 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0818 13:52:16.523572  1129 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:52:17.359728  1129 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!

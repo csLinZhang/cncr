@@ -1,0 +1,24 @@
+Log file created at: 2020/08/18 13:54:35
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0818 13:54:35.084519  1828 frame.cpp:47] Loaded 10 areas.
+E0818 13:54:35.084679  1828 frame.cpp:48] Loaded 5 reflines.
+E0818 13:54:35.322597  1837 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0818 13:54:38.329210  1837 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:54:45.159534  1840 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:54:52.065431  1837 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:54:58.957873  1838 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:05.860615  1840 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:12.760591  1839 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:19.651656  1837 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:26.560952  1840 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:33.457340  1840 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:35.177814  1840 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:37.579247  1838 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:39.983175  1839 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:42.380440  1838 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:44.780310  1838 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:47.180495  1838 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:49.579691  1839 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:51.977530  1838 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:55:54.383035  1838 teb_planner.cpp:185] TEBPlanner return abnormal result!

@@ -1,0 +1,5 @@
+Log file created at: 2020/08/25 10:51:59
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0825 10:51:59.796247 14834 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 888.1
+W0825 10:51:59.796566 14835 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 888.1

@@ -1,0 +1,40 @@
+Log file created at: 2021/03/11 19:49:13
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0311 19:49:13.488843 26915 frame.cpp:47] Loaded 10 areas.
+E0311 19:49:13.489019 26915 frame.cpp:48] Loaded 6 reflines.
+E0311 19:49:13.666671 26924 raccoon_planning.cpp:145] update task context failed!
+E0311 19:49:13.669888 26925 raccoon_planning.cpp:145] update task context failed!
+E0311 19:49:13.769176 26926 astar_global_planner.cpp:46] Goal point @ x: 22.2786 y: -40.67 is out of costmap bound, Check it!
+E0311 19:49:13.769296 26926 raccoon_planning.cpp:145] update task context failed!
+E0311 19:49:15.623064 26924 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:18.145227 26924 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:19.757352 26927 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:20.974339 26927 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:22.615562 26925 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:23.850191 26925 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:25.501819 26926 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:26.721906 26926 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:28.241031 26927 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:29.330021 26927 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:31.279644 26924 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:32.799165 26924 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:34.624800 26927 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:36.153656 26927 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:37.866986 26924 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:39.131682 26924 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:39.136425 26925 astar_global_planner.cpp:46] Goal point @ x: 8.24851 y: -9.99567 is out of costmap bound, Check it!
+E0311 19:49:40.390193 26925 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:41.820592 26925 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:41.824468 26926 astar_global_planner.cpp:46] Goal point @ x: 8.24851 y: -9.99567 is out of costmap bound, Check it!
+E0311 19:49:43.058156 26926 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:44.461656 26926 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:44.465925 26925 astar_global_planner.cpp:46] Goal point @ x: 9.02531 y: -10.6665 is out of costmap bound, Check it!
+E0311 19:49:45.853060 26925 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:47.656107 26925 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:47.660202 26924 astar_global_planner.cpp:46] Goal point @ x: 9.02531 y: -10.6665 is out of costmap bound, Check it!
+E0311 19:49:49.067229 26924 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:50.817174 26924 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0311 19:49:50.821168 26926 astar_global_planner.cpp:46] Goal point @ x: 9.02531 y: -10.6665 is out of costmap bound, Check it!
+E0311 19:49:52.151603 26926 teb_planner.cpp:184] TEBPlanner return abnormal result!
+E0311 19:49:53.857029 26926 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!

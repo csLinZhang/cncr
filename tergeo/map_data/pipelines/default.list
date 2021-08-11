@@ -1,0 +1,16 @@
+task: {
+    id: "task_1"
+    name: "task_1"
+    describe: "this is task_1"
+
+    priority: 1
+    task_mode: MODE_MOVE_COVERAGE
+    task_type: TYPE_CLEAN_WORK
+    scene_type: SCENE_OPEN_SPACE
+
+    enable_avoid_obstacle: true
+    enable: true
+    map_area_name: "lobby-0"
+    ref_line_name: "lobby-0"
+    status: STATUS_UNKNOWN
+}

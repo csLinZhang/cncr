@@ -1,0 +1,57 @@
+Log file created at: 2020/08/05 08:48:09
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0805 08:48:09.307063 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0805 08:48:09.307560 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0805 08:48:09.307976 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0805 08:48:09.308275 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0805 08:48:09.308578 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0805 08:48:09.309406 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0805 08:48:09.309990 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0805 08:48:09.310279 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0805 08:48:09.310931 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0805 08:48:09.311389 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0805 08:48:09.311689 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0805 08:48:09.312073 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0805 08:48:09.312948 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0805 08:48:09.313218 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0805 08:48:09.313892 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0805 08:48:09.314074 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0805 08:48:09.396081 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0805 08:48:09.413604 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0805 08:48:09.416558 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0805 08:48:09.418357 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0805 08:48:09.420759 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0805 08:48:09.423085 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0805 08:48:09.424988 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0805 08:48:09.427163 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0805 08:48:09.429352 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0805 08:48:09.431890 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0805 08:48:09.432435 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0805 08:48:09.434381 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0805 08:48:09.436661 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0805 08:48:09.438624 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0805 08:48:09.440878 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0805 08:48:09.443327 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0805 08:48:09.445124 15470 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0805 08:48:09.526820 15470 frame.cpp:47] Loaded 7 areas.
+E0805 08:48:09.526970 15470 frame.cpp:48] Loaded 2 reflines.
+E0805 08:48:09.628875 15478 frame.cpp:88] localization data is outdated!
+E0805 08:48:09.728816 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:09.828786 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:09.928791 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.028795 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.128805 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.228809 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.328802 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.428799 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.528798 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.628883 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.728803 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.828800 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.928794 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.028795 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.128803 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.228804 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.328797 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.428797 15480 frame.cpp:88] localization data is outdated!

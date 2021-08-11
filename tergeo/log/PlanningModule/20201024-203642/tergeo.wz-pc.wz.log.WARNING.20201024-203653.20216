@@ -1,0 +1,30 @@
+Log file created at: 2020/10/24 20:36:53
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1024 20:36:53.461144 20225 control_planning.cpp:115] finished!
+E1024 20:36:53.559569 20227 control_planning.cpp:115] finished!
+E1024 20:36:53.659693 20224 control_planning.cpp:115] finished!
+E1024 20:36:53.759894 20226 control_planning.cpp:115] finished!
+E1024 20:36:53.859095 20227 control_planning.cpp:115] finished!
+E1024 20:36:53.959612 20225 control_planning.cpp:115] finished!
+E1024 20:36:54.060091 20227 control_planning.cpp:115] finished!
+E1024 20:36:54.159657 20224 control_planning.cpp:115] finished!
+E1024 20:36:54.260051 20227 control_planning.cpp:115] finished!
+E1024 20:36:54.359683 20225 control_planning.cpp:115] finished!
+E1024 20:36:54.459170 20226 control_planning.cpp:115] finished!
+E1024 20:36:54.560004 20224 control_planning.cpp:115] finished!
+E1024 20:36:54.659655 20227 control_planning.cpp:115] finished!
+E1024 20:36:54.759402 20225 control_planning.cpp:115] finished!
+E1024 20:36:54.859316 20224 control_planning.cpp:115] finished!
+E1024 20:36:54.960182 20226 control_planning.cpp:115] finished!
+E1024 20:36:55.059845 20227 control_planning.cpp:115] finished!
+E1024 20:36:55.159288 20226 control_planning.cpp:115] finished!
+E1024 20:36:55.258965 20225 control_planning.cpp:115] finished!
+E1024 20:36:55.359764 20224 control_planning.cpp:115] finished!
+E1024 20:36:55.459448 20227 control_planning.cpp:115] finished!
+E1024 20:36:55.559211 20226 control_planning.cpp:115] finished!
+E1024 20:36:55.659902 20225 control_planning.cpp:115] finished!
+E1024 20:36:55.759569 20224 control_planning.cpp:115] finished!
+E1024 20:36:55.859959 20227 control_planning.cpp:115] finished!
+E1024 20:36:55.959344 20226 control_planning.cpp:115] finished!
+E1024 20:36:56.059849 20225 control_planning.cpp:115] finished!

@@ -1,0 +1,248 @@
+Log file created at: 2020/08/12 08:37:00
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0812 08:37:00.888103 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0812 08:37:00.888581 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0812 08:37:00.888979 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0812 08:37:00.889286 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0812 08:37:00.889597 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0812 08:37:00.890499 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0812 08:37:00.891145 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0812 08:37:00.891458 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0812 08:37:00.892163 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0812 08:37:00.892653 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0812 08:37:00.892972 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0812 08:37:00.893383 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0812 08:37:00.894315 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0812 08:37:00.894620 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0812 08:37:00.894858 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0812 08:37:00.895040 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0812 08:37:00.982623 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0812 08:37:00.998591 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0812 08:37:01.000874 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0812 08:37:01.003934 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0812 08:37:01.005784 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0812 08:37:01.007635 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0812 08:37:01.008991 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0812 08:37:01.010619 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0812 08:37:01.012267 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0812 08:37:01.014128 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0812 08:37:01.014734 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0812 08:37:01.016435 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0812 08:37:01.018132 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0812 08:37:01.019827 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0812 08:37:01.021562 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0812 08:37:01.023473 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0812 08:37:01.024909 16935 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0812 08:37:01.127701 16935 frame.cpp:47] Loaded 8 areas.
+E0812 08:37:01.127858 16935 frame.cpp:48] Loaded 4 reflines.
+E0812 08:37:01.280712 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.281548 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:01.282497 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.283167 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:01.379962 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.380609 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:01.480650 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.481284 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:01.580282 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.580926 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:01.679920 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.680567 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:01.780670 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.781314 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:01.880331 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.880975 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:01.980314 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:01.980931 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.079990 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.080643 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.180332 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.181002 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.279803 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.280444 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.380313 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.380960 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.480662 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.481297 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.579627 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.580263 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.679973 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.680613 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.780395 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.781031 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.879806 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.880447 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:02.980449 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:02.981087 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.080883 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.081516 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.179980 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.180614 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.280405 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.281040 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.379770 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.380405 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.480190 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.481138 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.580054 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.580886 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.679668 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.680335 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.780236 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.780939 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.880681 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.881422 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:03.979843 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:03.980566 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.080067 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.080808 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.180622 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.181268 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.279824 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.280474 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.380352 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.381004 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.480469 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.481211 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.579735 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.580386 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.680133 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.680837 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.780431 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.781080 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.879895 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.880542 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:04.980077 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:04.980814 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.080521 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.081172 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.179878 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.180531 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.279968 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.280658 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.380409 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.381069 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.480530 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.481256 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.580049 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.580699 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.680562 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.681238 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.780006 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.780675 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.880468 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.881273 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:05.979902 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:05.980643 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.080493 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.081197 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.181253 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.182077 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.280462 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.281177 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.380261 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.381003 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.480089 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.480762 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.580667 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.581328 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.680301 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.681006 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.779973 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.780697 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.879588 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.880337 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:06.980540 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:06.981302 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.080461 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.081189 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.180136 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.180850 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.279424 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.280009 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.381392 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.382117 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.480764 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.481426 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.580056 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.580752 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.680361 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.681066 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.779603 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.780207 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.879922 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.880606 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:07.981133 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:07.981612 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.079885 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.080432 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.180027 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.180548 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.280001 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.280752 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.380185 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.380846 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.480743 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.481464 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.579869 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.580466 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.680151 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.680807 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.780314 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.780840 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.880249 16945 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.880970 16945 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:08.980605 16946 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:08.981389 16946 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:09.079684 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:09.080240 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:09.179600 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:09.180179 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:09.280635 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:09.281213 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:09.380657 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:09.381217 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:09.480526 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:09.481261 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:09.579814 16947 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:09.580613 16947 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:09.680047 16944 pipeline_client.cpp:25] Error call GetCurrentTaskService
+E0812 08:37:09.680761 16944 pipeline_client.cpp:25] Error call GetNextTaskService
+E0812 08:37:09.782657 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:09.883435 16945 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:09.982352 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.082547 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.182195 16946 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.282133 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.382342 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.482522 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.583081 16945 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.682646 16946 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.781674 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.881577 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:10.982398 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.082468 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.181187 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.283102 16945 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.382179 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.481436 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.581562 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.681586 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.782131 16946 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.881224 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:11.982596 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.082007 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.181619 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.281625 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.382162 16947 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.481942 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.581578 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.681969 16946 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.782193 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.882741 16945 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:12.982178 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:13.082985 16946 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:13.182047 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:13.282608 16946 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:13.381559 16944 raccoon_planning.cpp:143] update task context failed!
+E0812 08:37:13.482326 16946 raccoon_planning.cpp:143] update task context failed!

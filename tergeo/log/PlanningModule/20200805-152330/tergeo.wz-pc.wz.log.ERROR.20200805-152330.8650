@@ -1,0 +1,24 @@
+Log file created at: 2020/08/05 15:23:30
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0805 15:23:30.617370  8650 frame.cpp:47] Loaded 7 areas.
+E0805 15:23:30.617535  8650 frame.cpp:48] Loaded 2 reflines.
+E0805 15:23:30.769976  8662 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0805 15:23:30.770081  8662 astar_global_planner.cpp:41] Start point @ x: 0.561318 y: -6.85428 is out of costmap bound, Check it!
+E0805 15:23:30.770156  8662 raccoon_planning.cpp:143] update task context failed!
+E0805 15:23:30.770344  8659 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0805 15:23:36.062398  8659 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0805 15:23:41.576668  8659 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0805 15:27:22.182036  8662 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0805 15:27:22.679704  8659 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:23.534731  8661 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:23.676177  8660 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:23.815865  8661 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:23.961938  8660 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:24.097875  8662 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:24.228909  8659 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:24.368274  8660 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:24.504851  8661 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:24.640493  8660 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:24.747012  8659 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0805 15:27:41.241555  8659 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!

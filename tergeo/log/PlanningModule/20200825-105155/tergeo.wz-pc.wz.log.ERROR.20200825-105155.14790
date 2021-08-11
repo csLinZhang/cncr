@@ -1,0 +1,8 @@
+Log file created at: 2020/08/25 10:51:55
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0825 10:51:55.862325 14790 frame.cpp:47] Loaded 10 areas.
+E0825 10:51:55.862512 14790 frame.cpp:48] Loaded 6 reflines.
+E0825 10:51:56.085162 14799 raccoon_planning.cpp:143] update task context failed!
+E0825 10:51:56.088344 14801 raccoon_planning.cpp:143] update task context failed!
+E0825 10:51:59.224058 14799 teb_planner.cpp:185] TEBPlanner return abnormal result!

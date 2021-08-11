@@ -1,0 +1,51 @@
+Log file created at: 2020/08/04 13:09:41
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0804 13:09:41.323841 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 50.05
+W0804 13:09:41.324142 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 50.05
+W0804 13:13:15.324173 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:13:15.373961 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:14:32.424201 20195 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:14:32.474887 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:15:51.074247 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:15:51.123826 20195 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:18:37.823927 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:18:37.874680 20195 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:19:49.223481 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:19:49.274425 20195 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:20:45.423568 20195 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:20:45.474123 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:20:45.524027 20195 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:20:45.574748 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:22:01.573902 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.25
+W0804 13:22:01.624064 20195 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:22:01.674702 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:22:01.724195 20195 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:22:01.774832 20196 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0804 13:22:01.823238 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.25
+W0804 13:22:06.724221 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.25
+W0804 13:22:07.274866 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.25
+W0804 13:23:45.374007 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.25
+W0804 13:23:45.424062 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.3
+W0804 13:23:45.474951 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.35
+W0804 13:23:45.523658 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.4
+W0804 13:23:45.574565 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.45
+W0804 13:23:45.623397 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.5
+W0804 13:23:45.674340 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.55
+W0804 13:23:45.724063 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.6
+W0804 13:23:45.773960 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.65
+W0804 13:23:45.824028 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.7
+W0804 13:23:45.874011 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.75
+W0804 13:23:45.924080 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.8
+W0804 13:23:45.974339 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.85
+W0804 13:23:46.023394 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.9
+W0804 13:23:46.074532 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.95
+W0804 13:23:46.123616 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1
+W0804 13:23:46.174656 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.05
+W0804 13:23:46.223688 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.1
+W0804 13:23:46.273826 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.15
+W0804 13:23:46.323850 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.2
+W0804 13:23:46.374027 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.25
+W0804 13:23:46.424104 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.3
+W0804 13:23:46.474200 20195 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.35
+W0804 13:23:46.523175 20196 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.4

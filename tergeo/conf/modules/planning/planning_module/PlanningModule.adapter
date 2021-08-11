@@ -1,0 +1,96 @@
+topic_config: {
+  name: "LocalizationTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "PerceptionObstaclesTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "ControlCommandTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "PlanningPathTopic"
+  mode: PUBLISH_ONLY
+  enable: true
+}
+topic_config: {
+  name: "ReferenceLineTopic"
+  mode: PUBLISH_ONLY
+  enable: true
+}
+topic_config: {
+  name: "CostmapTopic"
+  mode: PUBLISH_ONLY
+  enable: true
+}
+topic_config: {
+  name: "PerceptionRoadEdgeTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "PerceptionLanesTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "ChassisInfoTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "ImuTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+
+service_config: {
+    name: "AddTaskService"
+    mode: RECEIVE_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetAllTasksService"
+    mode: RECEIVE_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetCurrentTaskService"
+    mode: RECEIVE_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetTaskService"
+    mode: RECEIVE_ONLY
+    enable: true
+}
+service_config: {
+    name: "RemoveTaskService"
+    mode: RECEIVE_ONLY
+    enable: true
+}
+service_config: {
+    name: "SetCurrentTaskStatusService"
+    mode: RECEIVE_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetCurrentTaskStatusService"
+    mode: RECEIVE_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetNextTaskService"
+    mode: RECEIVE_ONLY
+    enable: true
+}
+service_config: {
+    name: "LoadTasksService"
+    mode: RECEIVE_ONLY
+    enable: true
+}

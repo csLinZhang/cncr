@@ -1,0 +1,26 @@
+Log file created at: 2020/08/04 16:00:48
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0804 16:00:48.024710   669 frame.cpp:47] Loaded 7 areas.
+E0804 16:00:48.024870   669 frame.cpp:48] Loaded 1 reflines.
+E0804 16:00:48.251088   682 astar_global_planner.cpp:41] Start point @ x: -8.83115 y: 3.46777 is out of costmap bound, Check it!
+E0804 16:00:48.251173   682 raccoon_planning.cpp:143] update task context failed!
+E0804 16:00:50.777379   681 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 16:00:52.421027   681 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0804 16:05:53.168362   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.313700   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.439554   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.570963   682 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.688654   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.812216   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.937860   682 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.058539   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.187180   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.312976   682 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.412760   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.537439   682 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.665541   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.802067   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.928629   680 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:55.055452   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:55.153246   680 raccoon_planning.cpp:498] recoveried by RecoveryPlanner

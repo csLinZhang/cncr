@@ -1,0 +1,59 @@
+Log file created at: 2020/08/04 16:00:47
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0804 16:00:47.833882   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0804 16:00:47.834370   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0804 16:00:47.834808   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0804 16:00:47.835114   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0804 16:00:47.835407   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0804 16:00:47.836243   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0804 16:00:47.836843   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0804 16:00:47.837188   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0804 16:00:47.837847   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0804 16:00:47.838308   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0804 16:00:47.838624   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0804 16:00:47.839017   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0804 16:00:47.839908   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0804 16:00:47.840226   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0804 16:00:47.840453   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0804 16:00:47.840621   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0804 16:00:47.920920   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0804 16:00:47.936683   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0804 16:00:47.939529   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0804 16:00:47.941215   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0804 16:00:47.943472   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0804 16:00:47.945631   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0804 16:00:47.947341   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0804 16:00:47.949340   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0804 16:00:47.951365   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0804 16:00:47.953632   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0804 16:00:47.954012   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0804 16:00:47.955818   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0804 16:00:47.957937   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0804 16:00:47.959715   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0804 16:00:47.961809   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0804 16:00:47.964098   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0804 16:00:47.965737   669 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0804 16:00:48.024710   669 frame.cpp:47] Loaded 7 areas.
+E0804 16:00:48.024870   669 frame.cpp:48] Loaded 1 reflines.
+E0804 16:00:48.251088   682 astar_global_planner.cpp:41] Start point @ x: -8.83115 y: 3.46777 is out of costmap bound, Check it!
+E0804 16:00:48.251173   682 raccoon_planning.cpp:143] update task context failed!
+E0804 16:00:50.777379   681 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 16:00:52.421027   681 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0804 16:05:53.168362   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.313700   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.439554   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.570963   682 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.688654   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.812216   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:53.937860   682 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.058539   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.187180   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.312976   682 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.412760   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.537439   682 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.665541   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.802067   683 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:54.928629   680 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:55.055452   681 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 16:05:55.153246   680 raccoon_planning.cpp:498] recoveried by RecoveryPlanner

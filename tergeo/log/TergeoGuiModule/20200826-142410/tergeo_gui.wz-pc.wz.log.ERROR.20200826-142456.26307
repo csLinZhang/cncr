@@ -1,0 +1,4 @@
+Log file created at: 2020/08/26 14:24:56
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0826 14:24:56.475093 26307 pipeline_client.cpp:25] Error call GetCurrentTaskService

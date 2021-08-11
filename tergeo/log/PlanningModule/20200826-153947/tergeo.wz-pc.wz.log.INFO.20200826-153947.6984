@@ -1,0 +1,234 @@
+Log file created at: 2020/08/26 15:39:47
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0826 15:39:47.993360  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0826 15:39:47.993718  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0826 15:39:47.994014  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0826 15:39:47.994235  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0826 15:39:47.994508  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0826 15:39:47.995229  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0826 15:39:47.995728  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0826 15:39:47.996006  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0826 15:39:47.996542  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0826 15:39:47.996932  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0826 15:39:47.997174  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0826 15:39:47.997473  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0826 15:39:47.998277  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0826 15:39:47.998555  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0826 15:39:47.998782  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0826 15:39:47.998950  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0826 15:39:48.067855  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0826 15:39:48.083631  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0826 15:39:48.086381  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0826 15:39:48.088001  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0826 15:39:48.090227  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0826 15:39:48.092375  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0826 15:39:48.094063  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0826 15:39:48.096083  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0826 15:39:48.098094  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0826 15:39:48.100392  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0826 15:39:48.100782  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0826 15:39:48.102557  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0826 15:39:48.104662  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0826 15:39:48.106555  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0826 15:39:48.108803  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0826 15:39:48.111090  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0826 15:39:48.112709  6984 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0826 15:39:48.204318  6984 frame.cpp:47] Loaded 10 areas.
+E0826 15:39:48.204483  6984 frame.cpp:48] Loaded 6 reflines.
+E0826 15:39:51.147621  6992 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:53.454298  6992 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:53.454413  6992 raccoon_planning.cpp:250] 1,0,1,0,0
+E0826 15:39:54.639178  6992 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0826 15:39:54.772517  6993 raccoon_planning.cpp:250] 2,1,1,0,0
+E0826 15:39:54.902690  6992 raccoon_planning.cpp:250] 3,2,1,0,0
+E0826 15:39:54.968046  6994 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:55.052414  6994 raccoon_planning.cpp:250] 4,2,1,1,0
+E0826 15:39:55.094913  6995 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:55.154848  6995 raccoon_planning.cpp:250] 5,2,1,2,0
+E0826 15:39:55.286296  6993 raccoon_planning.cpp:250] 6,3,1,2,0
+E0826 15:39:55.335922  6995 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:55.394388  6995 raccoon_planning.cpp:250] 7,3,1,3,0
+E0826 15:39:55.526432  6992 raccoon_planning.cpp:250] 8,4,1,3,0
+E0826 15:39:55.653059  6994 raccoon_planning.cpp:250] 9,5,1,3,0
+E0826 15:39:55.770381  6993 raccoon_planning.cpp:250] 10,6,1,3,0
+E0826 15:39:55.890911  6995 raccoon_planning.cpp:250] 11,7,1,3,0
+E0826 15:39:56.015105  6992 raccoon_planning.cpp:250] 12,8,1,3,0
+E0826 15:39:56.107918  6995 raccoon_planning.cpp:250] 13,9,1,3,0
+E0826 15:39:56.222981  6993 raccoon_planning.cpp:250] 14,10,1,3,0
+E0826 15:39:56.319368  6995 raccoon_planning.cpp:250] 15,11,1,3,0
+E0826 15:39:56.435160  6994 raccoon_planning.cpp:250] 16,12,1,3,0
+E0826 15:39:56.529676  6995 raccoon_planning.cpp:250] 17,13,1,3,0
+E0826 15:39:56.649996  6994 raccoon_planning.cpp:250] 18,14,1,3,0
+E0826 15:39:56.770901  6992 raccoon_planning.cpp:250] 19,15,1,3,0
+E0826 15:39:56.819011  6994 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:56.884102  6994 raccoon_planning.cpp:250] 20,15,1,4,0
+E0826 15:39:57.004185  6992 raccoon_planning.cpp:250] 21,16,1,4,0
+E0826 15:39:57.117475  6994 raccoon_planning.cpp:250] 22,17,1,4,0
+E0826 15:39:57.231635  6992 raccoon_planning.cpp:250] 23,18,1,4,0
+E0826 15:39:57.341516  6993 raccoon_planning.cpp:250] 24,19,1,4,0
+E0826 15:39:57.424713  6995 raccoon_planning.cpp:250] 25,20,1,4,0
+E0826 15:39:57.540176  6992 raccoon_planning.cpp:250] 26,21,1,4,0
+E0826 15:39:57.626363  6995 raccoon_planning.cpp:250] 27,22,1,4,0
+E0826 15:39:57.741976  6994 raccoon_planning.cpp:250] 28,23,1,4,0
+E0826 15:39:57.776391  6995 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:57.835378  6995 raccoon_planning.cpp:250] 29,23,1,5,0
+E0826 15:39:57.942943  6992 raccoon_planning.cpp:250] 30,24,1,5,0
+E0826 15:39:58.060757  6994 raccoon_planning.cpp:250] 31,25,1,5,0
+E0826 15:39:58.162675  6995 raccoon_planning.cpp:250] 32,26,1,5,0
+E0826 15:39:58.271682  6993 raccoon_planning.cpp:250] 33,27,1,5,0
+E0826 15:39:58.366299  6995 raccoon_planning.cpp:250] 34,28,1,5,0
+E0826 15:39:58.463379  6994 raccoon_planning.cpp:250] 35,29,1,5,0
+E0826 15:39:58.555218  6993 raccoon_planning.cpp:250] 36,30,1,5,0
+E0826 15:39:58.661630  6995 raccoon_planning.cpp:250] 37,31,1,5,0
+E0826 15:39:58.761003  6993 raccoon_planning.cpp:250] 38,32,1,5,0
+E0826 15:39:58.804390  6994 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:58.863353  6994 raccoon_planning.cpp:250] 39,32,1,6,0
+E0826 15:39:58.965042  6995 raccoon_planning.cpp:250] 40,33,1,6,0
+E0826 15:39:59.058224  6992 raccoon_planning.cpp:250] 41,34,1,6,0
+E0826 15:39:59.097666  6994 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:39:59.153524  6994 raccoon_planning.cpp:250] 42,34,1,7,0
+E0826 15:39:59.258980  6993 raccoon_planning.cpp:250] 43,35,1,7,0
+E0826 15:39:59.357885  6994 raccoon_planning.cpp:250] 44,36,1,7,0
+E0826 15:39:59.459942  6992 raccoon_planning.cpp:250] 45,37,1,7,0
+E0826 15:39:59.555801  6993 raccoon_planning.cpp:250] 46,38,1,7,0
+E0826 15:39:59.653523  6995 raccoon_planning.cpp:250] 47,39,1,7,0
+E0826 15:39:59.749063  6995 raccoon_planning.cpp:250] 48,40,1,7,0
+E0826 15:39:59.847890  6992 raccoon_planning.cpp:250] 49,41,1,7,0
+E0826 15:39:59.957531  6995 raccoon_planning.cpp:250] 50,42,1,7,0
+E0826 15:40:00.038908  6994 raccoon_planning.cpp:250] 51,43,1,7,0
+E0826 15:40:00.150904  6994 raccoon_planning.cpp:250] 52,44,1,7,0
+E0826 15:40:00.250905  6993 raccoon_planning.cpp:250] 53,45,1,7,0
+E0826 15:40:00.344782  6993 raccoon_planning.cpp:250] 54,46,1,7,0
+E0826 15:40:00.450006  6995 raccoon_planning.cpp:250] 55,47,1,7,0
+E0826 15:40:00.545826  6993 raccoon_planning.cpp:250] 56,48,1,7,0
+E0826 15:40:00.651437  6992 raccoon_planning.cpp:250] 57,49,1,7,0
+E0826 15:40:00.745699  6994 raccoon_planning.cpp:250] 58,50,1,7,0
+E0826 15:40:00.840975  6995 raccoon_planning.cpp:250] 59,51,1,7,0
+E0826 15:40:00.956287  6992 raccoon_planning.cpp:250] 60,52,1,7,0
+E0826 15:40:01.046386  6995 raccoon_planning.cpp:250] 61,53,1,7,0
+E0826 15:40:01.148349  6993 raccoon_planning.cpp:250] 62,54,1,7,0
+E0826 15:40:01.244282  6995 raccoon_planning.cpp:250] 63,55,1,7,0
+E0826 15:40:01.345005  6994 raccoon_planning.cpp:250] 64,56,1,7,0
+E0826 15:40:01.450284  6992 raccoon_planning.cpp:250] 65,57,1,7,0
+E0826 15:40:01.544589  6994 raccoon_planning.cpp:250] 66,58,1,7,0
+E0826 15:40:01.642254  6992 raccoon_planning.cpp:250] 67,59,1,7,0
+E0826 15:40:01.748066  6995 raccoon_planning.cpp:250] 68,60,1,7,0
+E0826 15:40:01.848474  6993 raccoon_planning.cpp:250] 69,61,1,7,0
+E0826 15:40:01.950919  6992 raccoon_planning.cpp:250] 70,62,1,7,0
+E0826 15:40:02.043660  6995 raccoon_planning.cpp:250] 71,63,1,7,0
+E0826 15:40:02.139863  6994 raccoon_planning.cpp:250] 72,64,1,7,0
+E0826 15:40:02.235217  6995 raccoon_planning.cpp:250] 73,65,1,7,0
+E0826 15:40:02.337682  6993 raccoon_planning.cpp:250] 74,66,1,7,0
+E0826 15:40:02.447168  6992 raccoon_planning.cpp:250] 75,67,1,7,0
+E0826 15:40:02.549445  6994 raccoon_planning.cpp:250] 76,68,1,7,0
+E0826 15:40:02.638586  6993 raccoon_planning.cpp:250] 77,69,1,7,0
+E0826 15:40:02.735639  6993 raccoon_planning.cpp:250] 78,70,1,7,0
+E0826 15:40:02.839252  6994 raccoon_planning.cpp:250] 79,71,1,7,0
+E0826 15:40:02.953351  6992 raccoon_planning.cpp:250] 80,72,1,7,0
+E0826 15:40:03.049074  6994 raccoon_planning.cpp:250] 81,73,1,7,0
+E0826 15:40:03.143613  6995 raccoon_planning.cpp:250] 82,74,1,7,0
+E0826 15:40:03.245262  6993 raccoon_planning.cpp:250] 83,75,1,7,0
+E0826 15:40:03.350281  6992 raccoon_planning.cpp:250] 84,76,1,7,0
+E0826 15:40:03.442904  6995 raccoon_planning.cpp:250] 85,77,1,7,0
+E0826 15:40:03.533357  6994 raccoon_planning.cpp:250] 86,78,1,7,0
+E0826 15:40:03.643288  6995 raccoon_planning.cpp:250] 87,79,1,7,0
+E0826 15:40:03.733637  6992 raccoon_planning.cpp:250] 88,80,1,7,0
+E0826 15:40:03.845808  6994 raccoon_planning.cpp:250] 89,81,1,7,0
+E0826 15:40:03.964851  6995 raccoon_planning.cpp:250] 90,82,1,7,0
+E0826 15:40:03.997769  6993 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:40:04.055160  6993 raccoon_planning.cpp:250] 91,82,1,8,0
+E0826 15:40:04.154727  6995 raccoon_planning.cpp:250] 92,83,1,8,0
+E0826 15:40:04.229653  6992 raccoon_planning.cpp:250] 93,84,1,8,0
+E0826 15:40:04.340551  6995 raccoon_planning.cpp:250] 94,85,1,8,0
+E0826 15:40:04.443492  6994 raccoon_planning.cpp:250] 95,86,1,8,0
+E0826 15:40:04.531563  6995 raccoon_planning.cpp:250] 96,87,1,8,0
+E0826 15:40:04.650414  6994 raccoon_planning.cpp:250] 97,88,1,8,0
+E0826 15:40:04.725205  6995 raccoon_planning.cpp:250] 98,89,1,8,0
+E0826 15:40:04.832042  6994 raccoon_planning.cpp:250] 99,90,1,8,0
+E0826 15:40:04.919440  6995 raccoon_planning.cpp:250] 100,91,1,8,0
+E0826 15:40:05.040953  6993 raccoon_planning.cpp:250] 101,92,1,8,0
+E0826 15:40:05.132325  6995 raccoon_planning.cpp:250] 102,93,1,8,0
+E0826 15:40:05.241693  6992 raccoon_planning.cpp:250] 103,94,1,8,0
+E0826 15:40:05.336416  6993 raccoon_planning.cpp:250] 104,95,1,8,0
+E0826 15:40:05.437330  6992 raccoon_planning.cpp:250] 105,96,1,8,0
+E0826 15:40:05.532266  6994 raccoon_planning.cpp:250] 106,97,1,8,0
+E0826 15:40:05.635913  6992 raccoon_planning.cpp:250] 107,98,1,8,0
+E0826 15:40:05.740281  6993 raccoon_planning.cpp:250] 108,99,1,8,0
+E0826 15:40:05.839836  6992 raccoon_planning.cpp:250] 109,100,1,8,0
+E0826 15:40:05.941157  6995 raccoon_planning.cpp:250] 110,101,1,8,0
+E0826 15:40:06.030892  6993 raccoon_planning.cpp:250] 111,102,1,8,0
+E0826 15:40:06.141525  6992 raccoon_planning.cpp:250] 112,103,1,8,0
+E0826 15:40:06.242002  6994 raccoon_planning.cpp:250] 113,104,1,8,0
+E0826 15:40:06.339984  6995 raccoon_planning.cpp:250] 114,105,1,8,0
+E0826 15:40:06.430030  6993 raccoon_planning.cpp:250] 115,106,1,8,0
+E0826 15:40:06.541312  6992 raccoon_planning.cpp:250] 116,107,1,8,0
+E0826 15:40:06.627777  6993 raccoon_planning.cpp:250] 117,108,1,8,0
+E0826 15:40:06.729636  6995 raccoon_planning.cpp:250] 118,109,1,8,0
+E0826 15:40:06.828943  6994 raccoon_planning.cpp:250] 119,110,1,8,0
+E0826 15:40:06.927492  6992 raccoon_planning.cpp:250] 120,111,1,8,0
+E0826 15:40:07.029110  6994 raccoon_planning.cpp:250] 121,112,1,8,0
+E0826 15:40:07.131075  6995 raccoon_planning.cpp:250] 122,113,1,8,0
+E0826 15:40:07.236331  6992 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:40:07.236408  6992 raccoon_planning.cpp:250] 123,113,1,8,1
+E0826 15:40:07.259645  6992 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:07.322988  6995 raccoon_planning.cpp:250] 124,114,1,8,1
+E0826 15:40:07.335237  6995 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:07.425276  6992 raccoon_planning.cpp:250] 125,115,1,8,1
+E0826 15:40:07.437399  6992 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:07.514839  6995 raccoon_planning.cpp:250] 126,116,1,8,1
+E0826 15:40:07.526880  6995 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:07.619278  6992 raccoon_planning.cpp:250] 127,117,1,8,1
+E0826 15:40:07.630599  6992 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:07.716862  6995 raccoon_planning.cpp:250] 128,118,1,8,1
+E0826 15:40:07.728935  6995 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:07.801031  6994 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:40:07.827764  6994 raccoon_planning.cpp:250] 129,118,1,9,1
+E0826 15:40:07.839192  6994 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:07.914482  6995 raccoon_planning.cpp:250] 130,119,1,9,1
+E0826 15:40:07.926514  6995 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.010542  6994 raccoon_planning.cpp:250] 131,120,1,9,1
+E0826 15:40:08.022090  6994 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.118566  6992 raccoon_planning.cpp:250] 132,121,1,9,1
+E0826 15:40:08.129757  6992 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.226862  6993 raccoon_planning.cpp:250] 133,122,1,9,1
+E0826 15:40:08.237767  6993 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.313617  6995 raccoon_planning.cpp:250] 134,123,1,9,1
+E0826 15:40:08.324393  6995 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.421646  6993 raccoon_planning.cpp:250] 135,124,1,9,1
+E0826 15:40:08.432828  6993 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.510143  6992 raccoon_planning.cpp:250] 136,125,1,9,1
+E0826 15:40:08.521464  6992 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.613703  6995 raccoon_planning.cpp:250] 137,126,1,9,1
+E0826 15:40:08.625025  6995 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.692811  6992 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:40:08.715411  6992 raccoon_planning.cpp:250] 138,126,1,10,1
+E0826 15:40:08.727175  6992 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.812721  6995 raccoon_planning.cpp:250] 139,127,1,10,1
+E0826 15:40:08.823352  6995 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.919493  6993 raccoon_planning.cpp:250] 140,128,1,10,1
+E0826 15:40:08.930366  6993 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:08.993592  6994 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:40:09.015688  6994 raccoon_planning.cpp:250] 141,128,1,11,1
+E0826 15:40:09.026715  6994 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:09.121959  6993 raccoon_planning.cpp:250] 142,129,1,11,1
+E0826 15:40:09.132692  6993 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:09.221339  6995 raccoon_planning.cpp:250] 143,130,1,11,1
+E0826 15:40:09.232061  6995 raccoon_planning.cpp:547] recoveried by RecoveryPlanner
+E0826 15:40:09.295563  6993 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:40:09.317472  6993 raccoon_planning.cpp:250] 144,130,1,12,1
+E0826 15:40:09.426362  6995 raccoon_planning.cpp:250] 145,131,1,12,1
+E0826 15:40:09.520898  6993 raccoon_planning.cpp:250] 146,132,1,12,1
+E0826 15:40:09.623910  6995 raccoon_planning.cpp:250] 147,133,1,12,1
+E0826 15:40:09.717603  6992 raccoon_planning.cpp:250] 148,134,1,12,1
+E0826 15:40:09.823449  6995 raccoon_planning.cpp:250] 149,135,1,12,1
+E0826 15:40:09.921083  6993 raccoon_planning.cpp:250] 150,136,1,12,1
+E0826 15:40:09.995280  6995 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:40:10.023231  6995 raccoon_planning.cpp:250] 151,136,1,13,1
+E0826 15:40:10.122471  6994 raccoon_planning.cpp:250] 152,137,1,13,1
+E0826 15:40:10.216989  6992 raccoon_planning.cpp:250] 153,138,1,13,1
+E0826 15:40:10.293568  6994 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:40:10.315958  6994 raccoon_planning.cpp:250] 154,138,1,14,1
+E0826 15:40:10.426690  6995 raccoon_planning.cpp:250] 155,139,1,14,1
+E0826 15:40:10.527973  6992 raccoon_planning.cpp:250] 156,140,1,14,1
+E0826 15:40:10.620841  6995 raccoon_planning.cpp:250] 157,141,1,14,1

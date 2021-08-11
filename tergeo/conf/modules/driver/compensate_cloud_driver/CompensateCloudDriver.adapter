@@ -1,0 +1,25 @@
+topic_config: {
+  name: "ChassisInfoTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "Left16PointCloudTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "Left16CompensatePointCloudTopic"
+  mode: PUBLISH_ONLY
+  enable: true
+}
+topic_config: {
+  name: "Right16PointCloudTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "Right16CompensatePointCloudTopic"
+  mode: PUBLISH_ONLY
+  enable: true
+}

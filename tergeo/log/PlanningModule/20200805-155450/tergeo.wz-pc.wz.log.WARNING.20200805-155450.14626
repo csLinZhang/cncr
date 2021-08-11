@@ -1,0 +1,10 @@
+Log file created at: 2020/08/05 15:54:50
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0805 15:54:50.470324 14626 frame.cpp:47] Loaded 7 areas.
+E0805 15:54:50.470520 14626 frame.cpp:48] Loaded 3 reflines.
+E0805 15:54:50.620505 14636 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0805 15:54:50.620631 14636 astar_global_planner.cpp:41] Start point @ x: 1.09277 y: -6.32094 is out of costmap bound, Check it!
+E0805 15:54:50.620752 14636 raccoon_planning.cpp:143] update task context failed!
+E0805 15:54:50.621017 14637 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0805 15:54:52.856021 14637 teb_planner.cpp:185] TEBPlanner return abnormal result!

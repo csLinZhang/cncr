@@ -1,0 +1,14 @@
+*~
+build_isolated/*
+devel_isolated/*
+install_isolated/*
+
+**/.idea/*
+**/cmake-build-debug/*
+**/cmake-build-release/*
+
+**/build/*
+**/devel/*
+**/install/*
+
+**/.vscode/*

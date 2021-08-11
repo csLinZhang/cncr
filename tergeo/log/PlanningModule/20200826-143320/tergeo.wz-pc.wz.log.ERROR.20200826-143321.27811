@@ -1,0 +1,5 @@
+Log file created at: 2020/08/26 14:33:21
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0826 14:33:21.196874 27811 frame.cpp:47] Loaded 10 areas.
+E0826 14:33:21.197052 27811 frame.cpp:48] Loaded 6 reflines.

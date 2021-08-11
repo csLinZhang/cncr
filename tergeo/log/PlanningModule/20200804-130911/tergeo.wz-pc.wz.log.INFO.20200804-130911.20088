@@ -1,0 +1,265 @@
+Log file created at: 2020/08/04 13:09:11
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0804 13:09:11.760501 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0804 13:09:11.760962 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0804 13:09:11.761340 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0804 13:09:11.761639 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0804 13:09:11.761931 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0804 13:09:11.762778 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0804 13:09:11.763358 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0804 13:09:11.763645 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0804 13:09:11.764294 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0804 13:09:11.764750 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0804 13:09:11.765048 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0804 13:09:11.765429 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0804 13:09:11.766304 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0804 13:09:11.766629 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0804 13:09:11.766849 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0804 13:09:11.767020 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0804 13:09:11.846637 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0804 13:09:11.862345 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0804 13:09:11.865131 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0804 13:09:11.866782 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0804 13:09:11.869021 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0804 13:09:11.871193 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0804 13:09:11.872898 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0804 13:09:11.874958 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0804 13:09:11.877013 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0804 13:09:11.879309 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0804 13:09:11.879685 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0804 13:09:11.881454 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0804 13:09:11.883599 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0804 13:09:11.885365 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0804 13:09:11.887459 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0804 13:09:11.889735 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0804 13:09:11.891393 20088 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0804 13:09:11.951561 20088 frame.cpp:47] Loaded 7 areas.
+E0804 13:09:11.951741 20088 frame.cpp:48] Loaded 1 reflines.
+E0804 13:09:12.177477 20098 raccoon_planning.cpp:143] update task context failed!
+E0804 13:09:12.180699 20099 raccoon_planning.cpp:143] update task context failed!
+E0804 13:09:12.275430 20096 astar_global_planner.cpp:46] Goal point @ x: 8.27395 y: -6.39762 is out of costmap bound, Check it!
+E0804 13:09:12.275548 20096 raccoon_planning.cpp:143] update task context failed!
+E0804 13:09:14.190953 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:09:16.029881 20099 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0804 13:15:16.256846 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:16.424679 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:16.540746 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:16.657097 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:16.762490 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:16.869264 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:16.976305 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:17.089156 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:17.202487 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:17.307250 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:17.440876 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:17.545264 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:17.665485 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:17.788956 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:17.905742 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:18.029923 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:18.126670 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:15:18.241472 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.107357 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.253641 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.355623 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.462208 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.554204 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.657397 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.756534 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.850751 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:27.949694 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.046649 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.149147 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.252849 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.345489 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.448753 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.547902 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.646351 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.747143 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.845119 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:28.944816 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:29.044682 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:17:29.144248 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:01.543504 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:01.688161 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:01.807276 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:01.921470 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.041119 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.154327 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.268643 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.377660 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.468612 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.586517 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.680236 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.796882 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:02.912979 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:03.027772 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:03.142488 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:03.258349 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:03.371390 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:03.483448 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:18:03.591964 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:45.246637 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:45.551362 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:20:45.577150 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:45.652366 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:45.783109 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:45.868250 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:45.983008 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.071549 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.182561 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.267969 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.363492 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.480978 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.581761 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.684355 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.784190 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.865386 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:46.978893 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:47.060936 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:47.178689 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:47.276080 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:47.379751 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:47.481189 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:20:47.580040 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:52.993453 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:53.151130 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:53.302971 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:53.461319 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:53.601742 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:53.745631 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:53.867645 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:53.978781 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:54.121904 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:54.258997 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:54.396673 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:54.533162 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:54.660301 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:54.793148 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:54.920282 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:21:55.047024 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:01.530791 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:01.616348 20099 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0804 13:22:01.759132 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:01.828272 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:01.950637 20097 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:02.013914 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:02.112146 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:02.159126 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:02.263182 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:02.314407 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:02.421308 20096 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:02.468087 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:02.598855 20097 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:02.643138 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:02.764472 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:02.835611 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:02.942871 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:02.992437 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:03.087265 20096 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:03.129226 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:03.217456 20097 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:03.278615 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:03.384119 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:03.438987 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:03.532765 20096 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:03.580976 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:03.685660 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:03.736923 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:03.830876 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:03.888000 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:03.998014 20097 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:04.054188 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:04.155841 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:04.218529 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:04.328302 20096 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:04.377710 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:04.524984 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:04.613077 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:04.669749 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:04.814499 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:04.939195 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:04.986948 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:05.095111 20097 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:05.145056 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:05.251332 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:05.301595 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:05.461997 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:05.596741 20096 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:05.641597 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:05.763204 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:05.805305 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:05.938355 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:06.049857 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:06.084816 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:06.177673 20097 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:06.212266 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:06.312786 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:06.348826 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:06.470659 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:06.516827 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:06.649554 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:06.753077 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:06.868873 20097 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:06.910962 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:07.032699 20098 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:07.073688 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:07.199911 20096 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:07.306764 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:07.455096 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:07.568588 20096 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:07.606840 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:07.743499 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:07.880041 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:08.020185 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:08.161765 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:08.307052 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:08.446574 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:08.568096 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:08.709106 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:08.836405 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:08.984181 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:09.135495 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:09.284143 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:09.417191 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:09.574548 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:09.694775 20097 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:09.713151 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:09.833938 20099 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0804 13:22:09.865705 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:09.970564 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.044049 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.134784 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.215812 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.305476 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.409216 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.509984 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.613920 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.706533 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.811112 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:10.908821 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.010802 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.113425 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.213011 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.312629 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.414479 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.515003 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.616901 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.696844 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:11.812526 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:30.812283 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:30.939836 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:31.045665 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:31.204762 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:31.361949 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:31.517421 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:31.683821 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:31.835024 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:31.984920 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:32.130931 20099 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:32.280799 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:32.432528 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:32.581817 20097 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:32.732376 20096 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0804 13:22:32.876461 20098 raccoon_planning.cpp:498] recoveried by RecoveryPlanner

@@ -1,0 +1,5 @@
+Log file created at: 2020/08/03 19:09:35
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 19:09:35.070161  3038 tergeo_app.cpp:76] Error create module: MapModule
+E0803 19:09:35.070377  3038 tergeo_app.cpp:77] May not load module plugin!

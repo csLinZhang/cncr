@@ -1,0 +1,18 @@
+Log file created at: 2020/08/17 10:10:33
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0817 10:10:33.295083  1847 frame.cpp:47] Loaded 10 areas.
+E0817 10:10:33.295218  1847 frame.cpp:48] Loaded 5 reflines.
+E0817 10:10:33.546984  1862 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0817 10:10:33.547091  1862 astar_global_planner.cpp:41] Start point @ x: 5.11915 y: -6.49114 is out of costmap bound, Check it!
+E0817 10:10:33.547174  1862 raccoon_planning.cpp:143] update task context failed!
+E0817 10:10:33.547389  1858 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0817 10:10:37.035220  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:39.736110  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:42.542093  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:45.341702  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:48.143239  1867 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:50.941387  1858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:53.742151  1867 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:56.542810  1865 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:10:59.343540  1865 teb_planner.cpp:185] TEBPlanner return abnormal result!

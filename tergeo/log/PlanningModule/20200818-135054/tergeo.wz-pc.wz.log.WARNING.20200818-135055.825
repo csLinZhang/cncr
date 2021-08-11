@@ -1,0 +1,85 @@
+Log file created at: 2020/08/18 13:50:55
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0818 13:50:55.036408   825 frame.cpp:47] Loaded 10 areas.
+E0818 13:50:55.036582   825 frame.cpp:48] Loaded 5 reflines.
+E0818 13:50:55.169100   839 frame.cpp:102] chassis_info data is outdated!
+E0818 13:50:55.169296   840 frame.cpp:102] chassis_info data is outdated!
+E0818 13:50:55.275878   838 raccoon_planning.cpp:143] update task context failed!
+E0818 13:50:55.372464   839 raccoon_planning.cpp:143] update task context failed!
+E0818 13:50:55.468425   839 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0818 13:50:57.612756   839 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:50:58.701539   839 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0818 13:51:31.184373   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:31.271049   840 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:31.370324   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:31.471372   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:31.572139   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:31.672665   840 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:31.772651   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:31.877696   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:31.974323   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.072556   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.170825   840 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.272303   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.372251   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.477006   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.585287   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.685102   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.772266   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.872222   840 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:32.972636   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.073899   840 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.172796   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.272344   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.370626   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.471698   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.571985   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.672525   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.772694   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.872177   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:33.973273   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.072156   840 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.171437   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.273061   840 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.370683   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.470649   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.572046   838 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.671741   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.770792   839 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.872589   837 astar_global_planner.cpp:46] Goal point @ x: 1.12605 y: -7.9557 is out of costmap bound, Check it!
+E0818 13:51:34.972486   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.072949   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.172224   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.272866   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.372889   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.472184   838 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.571542   840 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.672986   838 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.772320   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.871866   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:35.973366   838 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.072383   840 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.172212   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.271888   838 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.372620   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.472925   840 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.572360   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.671583   840 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.770085   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.873651   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:36.972988   838 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.071540   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.171644   838 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.272509   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.372735   840 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.472342   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.572680   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.671831   838 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.772683   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.872043   838 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:37.972613   837 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:38.072290   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:38.172766   840 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:38.272961   839 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!
+E0818 13:51:38.373380   840 astar_global_planner.cpp:46] Goal point @ x: 0.379906 y: -7.28991 is out of costmap bound, Check it!

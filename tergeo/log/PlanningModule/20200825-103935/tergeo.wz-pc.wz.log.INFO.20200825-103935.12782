@@ -1,0 +1,110 @@
+Log file created at: 2020/08/25 10:39:35
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0825 10:39:35.216243 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0825 10:39:35.216753 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0825 10:39:35.217135 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0825 10:39:35.217424 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0825 10:39:35.217727 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0825 10:39:35.218573 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0825 10:39:35.219151 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0825 10:39:35.219440 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0825 10:39:35.220088 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0825 10:39:35.220543 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0825 10:39:35.220840 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0825 10:39:35.221223 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0825 10:39:35.222092 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0825 10:39:35.222363 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0825 10:39:35.222591 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0825 10:39:35.222762 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0825 10:39:35.302366 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0825 10:39:35.318238 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0825 10:39:35.321034 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0825 10:39:35.322660 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0825 10:39:35.324883 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0825 10:39:35.327039 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0825 10:39:35.328732 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0825 10:39:35.330730 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0825 10:39:35.332732 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0825 10:39:35.335001 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0825 10:39:35.335384 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0825 10:39:35.337146 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0825 10:39:35.339255 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0825 10:39:35.341008 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0825 10:39:35.343120 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0825 10:39:35.345393 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0825 10:39:35.347026 12782 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0825 10:39:35.442617 12782 frame.cpp:47] Loaded 10 areas.
+E0825 10:39:35.442800 12782 frame.cpp:48] Loaded 6 reflines.
+E0825 10:39:38.286185 12792 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0825 10:48:54.385053 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:54.484095 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:54.584136 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:54.685389 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:54.783959 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:54.884510 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:54.984726 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.084604 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.183719 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.284526 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.383875 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.484324 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.584528 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.686342 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.783964 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.884809 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:55.984014 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.084492 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.184823 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.284415 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.384524 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.483552 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.584110 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.685444 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.784415 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.883993 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:56.983783 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.084129 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.184619 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.284672 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.384609 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.484422 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.584444 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.685585 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.784018 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.883932 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:57.985488 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.084133 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.184038 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.284024 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.385043 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.484143 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.583928 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.684762 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.784651 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.884928 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:58.984409 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.084262 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.184106 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.284780 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.384213 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.484103 12793 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.583866 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.685776 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.784418 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.884078 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:48:59.983580 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.084569 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.184080 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.283831 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.384359 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.483952 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.583636 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.685673 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.784220 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.883863 12791 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:00.983913 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:01.083513 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:01.184092 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:01.283452 12794 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0825 10:49:01.384233 12792 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task

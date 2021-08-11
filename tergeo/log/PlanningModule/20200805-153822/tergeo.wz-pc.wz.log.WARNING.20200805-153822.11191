@@ -1,0 +1,7 @@
+Log file created at: 2020/08/05 15:38:22
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0805 15:38:22.655804 11191 frame.cpp:47] Loaded 7 areas.
+E0805 15:38:22.655966 11191 frame.cpp:48] Loaded 3 reflines.
+E0805 15:38:22.869509 11201 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0805 15:38:26.287488 11201 teb_planner.cpp:185] TEBPlanner return abnormal result!

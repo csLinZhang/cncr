@@ -1,0 +1,30 @@
+topic_config: {
+    name: "ChassisInfoTopic"
+    mode: PUBLISH_ONLY
+    message_history_limit: 5
+    enable: true
+}
+topic_config: {
+    name: "GuardianCommandTopic"
+    mode: RECEIVE_ONLY
+    message_history_limit: 10
+    enable: true
+}
+topic_config: {
+    name: "BatteryStatusTopic"
+    mode: PUBLISH_ONLY
+    message_history_limit: 1
+    enable: true
+}
+topic_config: {
+    name: "FaultStatusTopic"
+    mode: PUBLISH_ONLY
+    message_history_limit: 2
+    enable: true
+}
+topic_config: {
+    name: "UltrasonicControllerTopic"
+    mode: PUBLISH_ONLY
+    message_history_limit: 5
+    enable: true
+}

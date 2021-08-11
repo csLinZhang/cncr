@@ -1,0 +1,11 @@
+Log file created at: 2020/08/03 21:03:10
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 21:03:10.917366 11133 frame.cpp:47] Loaded 7 areas.
+E0803 21:03:10.917507 11133 frame.cpp:48] Loaded 18 reflines.
+E0803 21:03:10.969257 11143 raccoon_planning.cpp:143] update task context failed!
+E0803 21:03:10.972271 11144 raccoon_planning.cpp:143] update task context failed!
+E0803 21:03:11.066932 11143 astar_global_planner.cpp:41] Start point @ x: 1.18329 y: -8.38933 is out of costmap bound, Check it!
+E0803 21:03:11.067045 11143 raccoon_planning.cpp:143] update task context failed!
+E0803 21:03:13.300320 11144 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0803 21:03:18.129892 11144 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!

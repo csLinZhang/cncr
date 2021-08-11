@@ -1,0 +1,33 @@
+Log file created at: 2020/08/17 10:09:46
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0817 10:09:46.620874  1692 frame.cpp:47] Loaded 10 areas.
+E0817 10:09:46.621016  1692 frame.cpp:48] Loaded 5 reflines.
+E0817 10:09:46.847187  1715 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0817 10:09:46.847297  1715 astar_global_planner.cpp:41] Start point @ x: 5.11915 y: -6.49114 is out of costmap bound, Check it!
+E0817 10:09:46.847386  1715 raccoon_planning.cpp:143] update task context failed!
+E0817 10:09:46.847611  1714 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0817 10:09:50.462286  1714 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:09:52.506383  1714 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0817 10:09:54.339507  1713 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:09:54.362743  1713 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:54.485343  1715 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:54.582785  1716 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:54.677665  1714 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:54.778049  1713 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:54.872929  1715 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:54.978021  1713 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.077873  1714 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.186090  1716 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.283892  1714 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.377511  1716 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.480615  1713 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.578982  1714 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.681979  1715 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.780601  1714 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.878511  1713 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:55.979230  1716 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:56.081544  1714 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:56.180260  1716 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:56.275904  1714 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0817 10:09:56.376467  1713 raccoon_planning.cpp:498] recoveried by RecoveryPlanner

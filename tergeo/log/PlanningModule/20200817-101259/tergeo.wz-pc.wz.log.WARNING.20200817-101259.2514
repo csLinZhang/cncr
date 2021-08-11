@@ -1,0 +1,56 @@
+Log file created at: 2020/08/17 10:12:59
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0817 10:12:59.305655  2514 frame.cpp:47] Loaded 10 areas.
+E0817 10:12:59.305806  2514 frame.cpp:48] Loaded 5 reflines.
+E0817 10:12:59.495010  2539 frame.cpp:88] localization data is outdated!
+E0817 10:12:59.495208  2540 frame.cpp:88] localization data is outdated!
+E0817 10:12:59.597285  2539 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0817 10:13:03.793664  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:04.925130  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:06.130317  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:07.333135  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:08.533051  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:09.730327  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:10.939178  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:12.132674  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:13.332305  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:14.525866  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:15.732924  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:16.932353  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:18.125243  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:19.332069  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:20.532089  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:21.738513  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:22.932026  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:24.131548  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:25.335497  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:26.531527  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:27.735193  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:28.932368  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:30.139650  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:31.331735  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:32.819546  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:33.028772  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:33.230182  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:33.427129  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:33.628796  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:33.828254  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:34.030932  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:34.228351  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:34.429421  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:34.629762  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:34.826841  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:35.024314  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:35.227586  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:35.424834  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:35.624541  2542 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:35.828944  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:36.031733  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:36.226344  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:36.430933  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:36.629132  2539 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:36.829784  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:37.026193  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:37.226125  2540 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0817 10:13:37.444224  2541 teb_planner.cpp:185] TEBPlanner return abnormal result!

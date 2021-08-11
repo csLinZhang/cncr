@@ -1,0 +1,54 @@
+Log file created at: 2020/08/18 13:36:34
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0818 13:36:34.511538 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0818 13:36:34.511991 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0818 13:36:34.512356 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0818 13:36:34.512632 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0818 13:36:34.512912 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0818 13:36:34.513727 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0818 13:36:34.514293 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0818 13:36:34.514577 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0818 13:36:34.515215 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0818 13:36:34.515656 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0818 13:36:34.515944 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0818 13:36:34.516314 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0818 13:36:34.517164 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0818 13:36:34.517416 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0818 13:36:34.517657 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0818 13:36:34.517823 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0818 13:36:34.518685 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/control/stanley_controler/libtergeo_plugin_control_stanley_controler.so
+I0818 13:36:34.519172 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/control/control_module/libtergeo_control_module.so
+I0818 13:36:34.519415 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/control/fake_controler/libtergeo_control_fake_controler.so
+I0818 13:36:34.519796 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/control/pure_persuit_controler/libtergeo_plugin_control_pure_persuit_controler.so
+I0818 13:36:34.521513 29025 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/control/steer_angle_controler/libtergeo_plugin_control_steer_angle_controler.so
+W0818 13:36:34.768497 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.25
+W0818 13:36:34.768838 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.25
+W0818 13:36:34.819591 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.3
+W0818 13:36:34.868980 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.35
+W0818 13:36:34.919878 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.4
+W0818 13:36:34.968740 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.45
+W0818 13:36:35.019567 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.5
+W0818 13:36:35.068308 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.55
+W0818 13:36:35.119221 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.6
+W0818 13:36:35.168664 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.65
+W0818 13:36:35.219200 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.7
+W0818 13:36:35.268815 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.75
+W0818 13:36:35.319306 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.8
+W0818 13:36:35.368860 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.85
+W0818 13:36:35.419631 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.9
+W0818 13:36:35.468016 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3167.95
+W0818 13:36:35.519942 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 3168
+W0818 13:36:35.568475 29032 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0818 13:42:28.720044 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.25
+W0818 13:42:28.769124 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.3
+W0818 13:42:28.819777 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.35
+W0818 13:42:28.868257 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.4
+W0818 13:42:28.919638 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.45
+W0818 13:42:28.969120 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.5
+W0818 13:42:29.019696 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.55
+W0818 13:42:29.069190 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.6
+W0818 13:42:29.119513 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.65
+W0818 13:42:29.168692 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.7
+W0818 13:42:29.219379 29032 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.75
+W0818 13:42:29.269058 29033 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.8

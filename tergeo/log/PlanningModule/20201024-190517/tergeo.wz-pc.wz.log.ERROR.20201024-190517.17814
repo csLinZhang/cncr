@@ -1,0 +1,48 @@
+Log file created at: 2020/10/24 19:05:17
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1024 19:05:17.660739 17822 file.h:66] Unable to open file /home/wz/Desktop/paper_data/control_data/reftraj.refline to write.
+E1024 19:05:41.757025 17822 control_planning.cpp:115] finished!
+E1024 19:05:41.856359 17824 control_planning.cpp:115] finished!
+E1024 19:05:41.957057 17821 control_planning.cpp:115] finished!
+E1024 19:05:42.056862 17822 control_planning.cpp:115] finished!
+E1024 19:05:42.156677 17823 control_planning.cpp:115] finished!
+E1024 19:05:42.256363 17824 control_planning.cpp:115] finished!
+E1024 19:05:42.356986 17821 control_planning.cpp:115] finished!
+E1024 19:05:42.456662 17822 control_planning.cpp:115] finished!
+E1024 19:05:42.556530 17823 control_planning.cpp:115] finished!
+E1024 19:05:42.656922 17821 control_planning.cpp:115] finished!
+E1024 19:05:42.757179 17824 control_planning.cpp:115] finished!
+E1024 19:05:42.856374 17822 control_planning.cpp:115] finished!
+E1024 19:05:42.957137 17823 control_planning.cpp:115] finished!
+E1024 19:05:43.056802 17821 control_planning.cpp:115] finished!
+E1024 19:05:43.156390 17824 control_planning.cpp:115] finished!
+E1024 19:05:43.257040 17823 control_planning.cpp:115] finished!
+E1024 19:05:43.356794 17822 control_planning.cpp:115] finished!
+E1024 19:05:43.456862 17821 control_planning.cpp:115] finished!
+E1024 19:05:43.556898 17823 control_planning.cpp:115] finished!
+E1024 19:05:43.657253 17822 control_planning.cpp:115] finished!
+E1024 19:05:43.756369 17824 control_planning.cpp:115] finished!
+E1024 19:05:43.856683 17821 control_planning.cpp:115] finished!
+E1024 19:05:43.956193 17823 control_planning.cpp:115] finished!
+E1024 19:05:44.056954 17824 control_planning.cpp:115] finished!
+E1024 19:05:44.156832 17822 control_planning.cpp:115] finished!
+E1024 19:05:44.256592 17821 control_planning.cpp:115] finished!
+E1024 19:05:44.356871 17823 control_planning.cpp:115] finished!
+E1024 19:05:44.457073 17824 control_planning.cpp:115] finished!
+E1024 19:05:44.556375 17822 control_planning.cpp:115] finished!
+E1024 19:05:44.657120 17821 control_planning.cpp:115] finished!
+E1024 19:05:44.756492 17823 control_planning.cpp:115] finished!
+E1024 19:05:44.856057 17824 control_planning.cpp:115] finished!
+E1024 19:05:44.957159 17822 control_planning.cpp:115] finished!
+E1024 19:05:45.056143 17823 control_planning.cpp:115] finished!
+E1024 19:05:45.156646 17824 control_planning.cpp:115] finished!
+E1024 19:05:45.256131 17821 control_planning.cpp:115] finished!
+E1024 19:05:45.356982 17823 control_planning.cpp:115] finished!
+E1024 19:05:45.456668 17824 control_planning.cpp:115] finished!
+E1024 19:05:45.556073 17822 control_planning.cpp:115] finished!
+E1024 19:05:45.656877 17821 control_planning.cpp:115] finished!
+E1024 19:05:45.756552 17823 control_planning.cpp:115] finished!
+E1024 19:05:45.856132 17822 control_planning.cpp:115] finished!
+E1024 19:05:45.956930 17821 control_planning.cpp:115] finished!
+E1024 19:05:46.056159 17823 control_planning.cpp:115] finished!

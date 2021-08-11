@@ -1,0 +1,11 @@
+Log file created at: 2020/08/16 11:15:23
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0816 11:15:23.614060 31174 frame.cpp:47] Loaded 12 areas.
+E0816 11:15:23.614207 31174 frame.cpp:48] Loaded 8 reflines.
+E0816 11:15:23.696043 31183 frame.cpp:88] localization data is outdated!
+E0816 11:15:23.696226 31184 frame.cpp:88] localization data is outdated!
+E0816 11:15:23.799666 31183 astar_global_planner.cpp:41] Start point @ x: -4.9984 y: -7.92399 is out of costmap bound, Check it!
+E0816 11:15:23.799777 31183 raccoon_planning.cpp:143] update task context failed!
+E0816 11:15:26.387341 31186 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0816 11:15:27.504417 31186 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!

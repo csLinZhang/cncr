@@ -1,0 +1,33 @@
+Log file created at: 2020/08/03 19:32:21
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 19:32:21.113034  3797 frame.cpp:47] Loaded 7 areas.
+E0803 19:32:21.113162  3797 frame.cpp:48] Loaded 18 reflines.
+E0803 19:32:21.207345  3807 raccoon_planning.cpp:143] update task context failed!
+E0803 19:32:21.210705  3809 raccoon_planning.cpp:143] update task context failed!
+E0803 19:32:21.305120  3807 astar_global_planner.cpp:41] Start point @ x: -5.58278 y: -1.62319 is out of costmap bound, Check it!
+E0803 19:32:21.305217  3807 raccoon_planning.cpp:143] update task context failed!
+E0803 19:32:23.656817  3810 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0803 19:32:27.283967  3810 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0803 19:34:29.718544  3809 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0803 19:34:29.761916  3809 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:29.880519  3810 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.012475  3808 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.126446  3810 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.235920  3808 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.341675  3810 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.440143  3808 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.544966  3807 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.626328  3808 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.706774  3807 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.784420  3808 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.870098  3810 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:30.952176  3807 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:31.036003  3809 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:31.132588  3810 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:31.232328  3808 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:31.328950  3807 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:31.439374  3808 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:31.532090  3809 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:31.630261  3807 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0803 19:34:31.731029  3810 raccoon_planning.cpp:498] recoveried by RecoveryPlanner

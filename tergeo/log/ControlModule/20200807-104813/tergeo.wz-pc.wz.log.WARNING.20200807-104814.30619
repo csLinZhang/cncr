@@ -1,0 +1,239 @@
+Log file created at: 2020/08/07 10:48:14
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0807 10:48:14.220935 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 37.9
+W0807 10:48:14.221294 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 37.9
+W0807 11:04:40.920794 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:40.972410 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.021754 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.072397 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.120723 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.172415 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.220825 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.272557 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.320837 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.372215 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.421497 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.473048 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.521144 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.571663 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.620762 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.672646 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.720947 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.771565 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.821061 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.871599 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.921130 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:41.972458 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.021168 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.072083 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.121420 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.172027 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.221654 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.272253 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.321502 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.371836 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.421396 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.472003 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.521636 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.571569 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.621315 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.672821 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.721580 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.772119 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.821406 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.871765 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.921135 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:42.972472 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.021680 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.072369 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.120849 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.172509 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.220844 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.272451 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.321552 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.372015 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.421443 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.472208 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.521364 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.571862 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.620883 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.672564 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.720679 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.772598 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.821270 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.871919 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.921557 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:43.972738 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.021256 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.072590 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.121117 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.172744 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.221297 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.271997 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.321599 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.372174 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.421717 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.472457 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.520782 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.572332 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.619596 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.672055 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.721638 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.772091 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.821450 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.871592 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.921351 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:44.971951 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.021567 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.072266 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.121737 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.171291 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.220741 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.271472 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.320578 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.371232 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.420708 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.472178 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.520702 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.571343 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.620874 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.671614 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.721320 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.771989 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.821451 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.871922 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.921362 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:45.972492 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.020927 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.071887 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.120673 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.175812 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.221318 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.275095 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.321313 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.372017 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.421232 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.472419 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.521569 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.572376 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.620853 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.671612 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.721252 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.772065 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.821453 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.871621 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.920608 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:46.972051 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.020581 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.072232 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.120723 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.172209 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.221585 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.272084 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.320461 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.371794 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.421155 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.471606 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.521047 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.571511 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.621222 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.671924 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.721421 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.771960 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.821496 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.872072 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.921095 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:47.972544 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.020581 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.071713 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.120939 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.172147 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.221134 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.272231 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.321386 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.371711 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.421020 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.472314 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.521407 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.572634 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.620774 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.671931 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.721284 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.771705 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.820649 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.872314 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.920802 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:48.973270 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.021484 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.071599 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.121140 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.171782 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.221151 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.271920 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.320420 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.372135 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.421592 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.472180 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.521397 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.571831 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.621192 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.672052 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.720585 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.772413 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.820940 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.872740 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.921274 30627 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:49.972476 30626 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0807 11:04:50.020841 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.25
+W0807 11:04:50.072404 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.3
+W0807 11:04:50.120874 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.35
+W0807 11:04:50.171561 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.4
+W0807 11:04:50.221158 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.45
+W0807 11:04:50.272800 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.5
+W0807 11:04:50.321372 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.55
+W0807 11:04:50.371997 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.6
+W0807 11:04:50.420449 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.65
+W0807 11:04:50.471774 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.7
+W0807 11:04:50.521131 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.75
+W0807 11:04:50.593204 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.8
+W0807 11:04:50.621006 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.85
+W0807 11:04:50.671836 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.9
+W0807 11:04:50.720618 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.95
+W0807 11:04:50.772634 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1
+W0807 11:04:50.820142 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.05
+W0807 11:04:50.872144 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.1
+W0807 11:04:50.920722 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.15
+W0807 11:04:50.972496 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.2
+W0807 11:04:51.021387 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.25
+W0807 11:04:51.072477 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.3
+W0807 11:04:51.121338 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.35
+W0807 11:04:51.172345 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.4
+W0807 11:04:51.221256 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.45
+W0807 11:04:51.272325 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.5
+W0807 11:04:51.321141 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.55
+W0807 11:04:51.372098 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.6
+W0807 11:04:51.420850 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.65
+W0807 11:04:51.472451 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.7
+W0807 11:04:51.521034 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.75
+W0807 11:04:51.571974 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.8
+W0807 11:04:51.621177 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.85
+W0807 11:04:51.672078 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.9
+W0807 11:04:51.720750 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.95
+W0807 11:04:51.771814 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2
+W0807 11:04:51.820747 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.05
+W0807 11:04:51.871624 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.1
+W0807 11:04:51.921605 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.15
+W0807 11:04:51.972164 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.2
+W0807 11:04:52.020896 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.25
+W0807 11:04:52.071799 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.3
+W0807 11:04:52.120748 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.35
+W0807 11:04:52.171630 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.4
+W0807 11:04:52.220446 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.45
+W0807 11:04:52.272385 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.5
+W0807 11:04:52.321166 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.55
+W0807 11:04:52.372032 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.6
+W0807 11:04:52.420910 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.65
+W0807 11:04:52.472689 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.7
+W0807 11:04:52.521572 30627 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.75
+W0807 11:04:52.571628 30626 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 2.8

@@ -1,0 +1,173 @@
+Log file created at: 2020/08/26 14:54:33
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0826 14:54:33.008723 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0826 14:54:33.009173 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0826 14:54:33.009547 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0826 14:54:33.009845 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0826 14:54:33.010138 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0826 14:54:33.011030 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0826 14:54:33.011613 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0826 14:54:33.011901 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0826 14:54:33.012559 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0826 14:54:33.013013 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0826 14:54:33.013347 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0826 14:54:33.013734 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0826 14:54:33.014607 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0826 14:54:33.014866 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0826 14:54:33.015090 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0826 14:54:33.015266 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0826 14:54:33.094710 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0826 14:54:33.110476 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0826 14:54:33.113262 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0826 14:54:33.114924 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0826 14:54:33.117174 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0826 14:54:33.119355 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0826 14:54:33.121068 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0826 14:54:33.123087 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0826 14:54:33.125109 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0826 14:54:33.127400 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0826 14:54:33.127774 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0826 14:54:33.129554 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0826 14:54:33.131682 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0826 14:54:33.133455 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0826 14:54:33.135541 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0826 14:54:33.137820 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0826 14:54:33.139467 31942 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0826 14:54:33.231043 31942 frame.cpp:47] Loaded 10 areas.
+E0826 14:54:33.231204 31942 frame.cpp:48] Loaded 6 reflines.
+E0826 14:54:36.098703 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:54:38.517724 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:54:39.494869 31951 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0826 14:54:51.789474 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:55:32.798210 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:57:29.215009 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:57:30.053064 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:57:31.655258 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:57:31.818720 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:57:32.700655 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:57:40.367297 31952 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0826 14:57:42.023793 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:07.126885 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:11.227756 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:22.255965 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:22.471976 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:22.861488 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:23.195050 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:23.214356 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:23.298947 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:23.370640 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:23.461532 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:23.536628 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:23.631456 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:23.701867 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:23.792537 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:23.864109 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:24.014688 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:24.095620 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:24.168818 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:24.257088 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:24.327456 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:24.480473 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:24.549329 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:24.607467 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:24.685537 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:24.761907 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:24.887290 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:24.968575 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:25.039041 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:25.104929 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:25.161775 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 14:58:25.777799 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:26.381716 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:26.499905 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:26.747669 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:26.865372 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:27.102128 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:27.211585 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:28.542632 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:28.775095 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:28.900663 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:29.501499 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:29.748139 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:30.053476 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:30.168551 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:30.406870 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:30.882738 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:31.110324 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:31.226744 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:31.341543 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:31.510191 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:31.971594 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:32.207276 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:32.426174 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:32.668210 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:32.882289 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:33.543470 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:58:33.776221 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:59:24.743588 31950 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:59:27.523780 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:59:29.324103 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:59:54.669302 31950 astar_global_planner.cpp:46] Goal point @ x: -3.15788 y: -5.37589 is out of costmap bound, Check it!
+E0826 14:59:54.853550 31952 astar_global_planner.cpp:46] Goal point @ x: -3.15788 y: -5.37589 is out of costmap bound, Check it!
+E0826 14:59:55.014360 31951 astar_global_planner.cpp:46] Goal point @ x: -3.15788 y: -5.37589 is out of costmap bound, Check it!
+E0826 14:59:55.223979 31950 astar_global_planner.cpp:46] Goal point @ x: -3.15788 y: -5.37589 is out of costmap bound, Check it!
+E0826 15:00:04.120726 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:00:34.568814 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:00:34.813717 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:00:34.938352 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:01:23.981330 31951 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:01:24.002655 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:24.148304 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:24.308359 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:24.440166 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:24.582177 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:24.698130 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:24.844842 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:24.983431 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:25.150297 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:25.288053 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:25.426151 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:25.584765 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:25.725877 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:25.882079 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:01:46.299779 31952 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:02:08.450143 31953 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 15:02:08.465778 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:08.659664 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:08.753082 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:08.848716 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:08.955406 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.049752 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.157439 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.238785 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.351087 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.458421 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.553472 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.651732 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.756253 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.858554 31953 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:09.946276 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:10.053411 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:10.147334 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:10.240909 31950 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:10.334846 31951 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:10.424893 31952 raccoon_planning.cpp:537] recoveried by RecoveryPlanner
+E0826 15:02:25.765198 31950 raccoon_planning.cpp:190] 4383,58
+E0826 15:02:25.861083 31951 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:25.962272 31952 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.061923 31953 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.161238 31950 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.260815 31951 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.360741 31950 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.460588 31952 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.561049 31950 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.661147 31952 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.761127 31950 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.861848 31951 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:26.963702 31950 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:27.061201 31952 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:27.160717 31951 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:27.260921 31953 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:27.361049 31951 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0826 15:02:27.461297 31953 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task

@@ -1,0 +1,9 @@
+<launch>
+  <param name="/use_sim_time" value="false"/>
+  <param name="robot_name" value="$(arg robot_name)"/>
+  <node pkg="stage_ros_wrapper" type="stage_ros_wrapper" name="stage_ros_wrapper" args="$(find stage_simulator)/world/$(arg robot_name).world" output="screen">
+    <param name="data_path" value="$(arg data_path)"/>
+    <param name="map" value="$(arg map)"/>
+    <param name="tfw" value="$(arg tfw)"/>
+  </node>
+</launch>

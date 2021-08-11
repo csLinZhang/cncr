@@ -1,0 +1,5 @@
+Log file created at: 2020/08/03 19:05:35
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 19:05:35.753206  2853 control_planning.cpp:333] 0.7
+E0803 19:05:35.753917  2853 file.h:66] Unable to open file /home/wz/Desktop/paper_data/control_data/reftraj.refline to write.

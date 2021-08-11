@@ -1,0 +1,45 @@
+service_config: {
+    name: "AddTaskService"
+    mode: PUBLISH_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetAllTasksService"
+    mode: PUBLISH_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetCurrentTaskService"
+    mode: PUBLISH_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetTaskService"
+    mode: PUBLISH_ONLY
+    enable: true
+}
+service_config: {
+    name: "RemoveTaskService"
+    mode: PUBLISH_ONLY
+    enable: true
+}
+service_config: {
+    name: "SetCurrentTaskStatusService"
+    mode: PUBLISH_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetCurrentTaskStatusService"
+    mode: PUBLISH_ONLY
+    enable: true
+}
+service_config: {
+    name: "GetNextTaskService"
+    mode: PUBLISH_ONLY
+    enable: true
+}
+service_config: {
+    name: "LoadTasksService"
+    mode: PUBLISH_ONLY
+    enable: true
+}

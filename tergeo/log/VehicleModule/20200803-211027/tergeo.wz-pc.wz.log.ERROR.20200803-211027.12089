@@ -1,0 +1,5 @@
+Log file created at: 2020/08/03 21:10:27
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0803 21:10:27.143180 12089 tergeo_app.cpp:87] Error init module: VehicleModule
+E0803 21:10:27.143432 12089 status.h:49] 6006, Error create can adapter: CanUsbAdapter

@@ -1,0 +1,24 @@
+Log file created at: 2020/08/26 14:50:38
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0826 14:50:38.701372 31007 frame.cpp:47] Loaded 10 areas.
+E0826 14:50:38.701539 31007 frame.cpp:48] Loaded 6 reflines.
+E0826 14:50:39.182482 31017 raccoon_planning.cpp:306] -0.736924
+E0826 14:50:39.182601 31017 raccoon_planning.cpp:306] -0.0826997
+E0826 14:50:39.182646 31017 raccoon_planning.cpp:306] -0.562082
+E0826 14:50:39.182664 31017 raccoon_planning.cpp:306] 0.357729
+E0826 14:50:39.182683 31017 raccoon_planning.cpp:306] 0.869386
+E0826 14:50:39.182700 31017 raccoon_planning.cpp:306] 0.0388327
+E0826 14:50:39.182718 31017 raccoon_planning.cpp:306] -0.930856
+E0826 14:50:39.182737 31017 raccoon_planning.cpp:306] 0.0594004
+E0826 14:50:39.182754 31017 raccoon_planning.cpp:306] -0.984604
+E0826 14:50:39.182772 31017 raccoon_planning.cpp:306] -0.866316
+E0826 14:50:39.182790 31017 raccoon_planning.cpp:306] 0.373545
+E0826 14:50:39.182807 31017 raccoon_planning.cpp:306] 0.860873
+E0826 14:50:39.182824 31017 raccoon_planning.cpp:306] 0.0538576
+E0826 14:50:39.182842 31017 raccoon_planning.cpp:306] 0.307838
+E0826 14:50:39.182859 31017 raccoon_planning.cpp:306] 0.402381
+E0826 14:50:39.182884 31017 raccoon_planning.cpp:306] 0.524396
+E0826 14:50:41.546528 31017 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:50:44.006393 31017 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0826 14:50:45.049760 31017 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!

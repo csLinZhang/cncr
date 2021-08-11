@@ -1,0 +1,174 @@
+Log file created at: 2020/08/07 11:07:33
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0807 11:07:33.156100   762 frame.cpp:47] Loaded 8 areas.
+E0807 11:07:33.156275   762 frame.cpp:48] Loaded 4 reflines.
+E0807 11:07:33.224970   771 frame.cpp:88] localization data is outdated!
+E0807 11:07:33.225194   772 frame.cpp:88] localization data is outdated!
+E0807 11:07:33.327430   771 raccoon_planning.cpp:143] update task context failed!
+E0807 11:07:33.428467   771 raccoon_planning.cpp:143] update task context failed!
+E0807 11:07:33.525458   773 astar_global_planner.cpp:46] Goal point @ x: 8.25828 y: -6.74512 is out of costmap bound, Check it!
+E0807 11:07:33.525605   773 raccoon_planning.cpp:143] update task context failed!
+E0807 11:07:36.575189   771 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0807 11:07:38.254164   771 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0807 11:15:17.419397   772 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0807 11:15:17.446519   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:17.519692   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:17.607421   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:17.690570   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:17.795078   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:17.894037   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:17.995126   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.092962   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.194852   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.292824   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.390864   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.492763   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.591056   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.695788   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.789604   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.892206   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:18.987632   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:19.090739   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:19.189288   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:19.292049   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:19.391031   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:15:19.488364   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:21:58.190536   773 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0807 11:21:58.230846   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:21:59.246325   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:00.271618   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:01.247987   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:02.254493   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:03.262717   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:04.250288   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:05.258281   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:06.255509   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:07.247772   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:08.252671   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:09.255509   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:10.248980   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:11.248908   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:12.246511   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:13.258610   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:14.246162   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:15.249315   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:16.246368   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:17.247620   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:22:18.241820   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:28:56.166843   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:28:57.222481   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:28:58.222898   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:28:59.229825   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:00.222987   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:01.227367   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:02.223101   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:03.225335   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:04.222676   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:05.225415   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:06.222146   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:07.221664   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:08.224867   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:09.221251   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:10.221042   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:11.220746   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:12.225370   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:13.220543   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:14.221715   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:15.232514   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:29:16.225539   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:29.280514   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:30.284054   774 raccoon_planning.cpp:252] replan recovery failed!
+E0807 11:41:31.303192   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:32.308864   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:33.305968   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:34.281715   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:35.292378   773 raccoon_planning.cpp:252] replan recovery failed!
+E0807 11:41:36.309830   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:37.296013   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:38.319694   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:39.335244   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:40.309767   771 raccoon_planning.cpp:252] replan recovery failed!
+E0807 11:41:41.303727   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:42.334903   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:43.300704   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:44.280498   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:45.296103   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:46.301239   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:47.307476   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:48.304975   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:41:49.284782   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:42.948251   773 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0807 11:59:42.991931   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:43.091014   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:43.171339   773 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0807 11:59:43.206329   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:43.313849   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:43.463743   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:43.641665   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:43.787351   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:43.925041   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:44.056651   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:44.197655   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:44.341974   772 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:44.489744   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:44.636135   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:44.776630   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:44.917786   771 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:45.061810   774 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 11:59:45.200378   773 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0807 12:00:26.277875   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:26.376592   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:26.476523   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:26.580678   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:26.676569   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:26.777429   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:26.876642   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:26.976176   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.075927   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.176627   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.277604   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.377022   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.477053   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.578140   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.676082   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.776553   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.877305   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:27.977212   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.076716   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.176496   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.278383   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.377127   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.477442   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.576284   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.677073   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.777056   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.876724   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:28.977063   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.076589   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.176749   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.277457   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.376595   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.477165   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.576937   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.677225   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.776504   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.876415   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:29.976446   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.076879   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.175915   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.277832   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.375656   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.475656   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.576956   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.676192   772 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.776304   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.877249   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:30.974994   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:31.076553   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:31.176120   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:31.277868   771 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:31.375742   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:31.476209   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:31.576385   773 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0807 12:00:31.676085   774 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task

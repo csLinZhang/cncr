@@ -1,0 +1,23 @@
+Log file created at: 2020/08/03 19:34:34
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0803 19:34:34.202805  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.25
+W0803 19:34:34.252601  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.3
+W0803 19:34:34.303211  3857 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.35
+W0803 19:34:34.352937  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.4
+W0803 19:34:34.402606  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.45
+W0803 19:34:34.452370  3857 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.5
+W0803 19:34:34.503182  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.55
+W0803 19:34:34.553015  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.6
+W0803 19:34:34.602823  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.65
+W0803 19:34:34.652706  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.7
+W0803 19:34:34.703801  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.75
+W0803 19:34:34.752737  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.8
+W0803 19:34:34.802719  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.85
+W0803 19:34:34.852634  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.9
+W0803 19:34:34.902679  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 0.95
+W0803 19:34:34.952770  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1
+W0803 19:34:35.002699  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.05
+W0803 19:34:35.052781  3857 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.1
+W0803 19:34:35.102946  3856 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.15
+W0803 19:34:35.153098  3857 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 1.2

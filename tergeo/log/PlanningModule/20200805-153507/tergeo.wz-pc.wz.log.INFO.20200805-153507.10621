@@ -1,0 +1,79 @@
+Log file created at: 2020/08/05 15:35:07
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0805 15:35:07.138880 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0805 15:35:07.139413 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0805 15:35:07.139824 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0805 15:35:07.140134 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0805 15:35:07.140441 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0805 15:35:07.141324 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0805 15:35:07.141948 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0805 15:35:07.142254 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0805 15:35:07.142954 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0805 15:35:07.143438 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0805 15:35:07.143757 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0805 15:35:07.144165 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0805 15:35:07.145107 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0805 15:35:07.145398 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0805 15:35:07.145632 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0805 15:35:07.145810 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0805 15:35:07.230928 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0805 15:35:07.247923 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0805 15:35:07.250802 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0805 15:35:07.252429 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0805 15:35:07.254683 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0805 15:35:07.256809 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0805 15:35:07.258124 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0805 15:35:07.259727 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0805 15:35:07.261276 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0805 15:35:07.263058 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0805 15:35:07.263372 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0805 15:35:07.264787 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0805 15:35:07.266826 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0805 15:35:07.268332 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0805 15:35:07.270053 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0805 15:35:07.271829 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0805 15:35:07.273080 10621 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0805 15:35:07.347797 10621 frame.cpp:47] Loaded 7 areas.
+E0805 15:35:07.347965 10621 frame.cpp:48] Loaded 3 reflines.
+E0805 15:35:07.569703 10629 raccoon_planning.cpp:143] update task context failed!
+E0805 15:35:07.572988 10630 raccoon_planning.cpp:143] update task context failed!
+E0805 15:35:07.667912 10630 astar_global_planner.cpp:41] Start point @ x: -2.81243 y: -4.76426 is out of costmap bound, Check it!
+E0805 15:35:07.668021 10630 raccoon_planning.cpp:143] update task context failed!
+E0805 15:35:09.185631 10629 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0805 15:35:10.578294 10629 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0805 15:36:06.069108 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.168884 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.268606 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.369854 10629 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.469697 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.569357 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.668911 10629 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.769456 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.869189 10632 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:06.971019 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.069314 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.169467 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.269099 10632 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.368981 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.468963 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.569689 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.669021 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.768792 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.869748 10629 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:07.969235 10632 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.068954 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.169593 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.269392 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.369534 10629 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.469302 10632 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.568775 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.669559 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.768877 10632 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.869675 10629 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:08.968806 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:09.069231 10631 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:09.169195 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:09.268891 10632 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:09.368911 10630 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task
+E0805 15:36:09.469416 10632 pipeline_client.cpp:29] Error call GetNextTaskService: Already the lastest task

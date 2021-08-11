@@ -1,0 +1,23 @@
+Log file created at: 2020/08/16 11:05:54
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0816 11:05:54.238091 29843 frame.cpp:47] Loaded 12 areas.
+E0816 11:05:54.238261 29843 frame.cpp:48] Loaded 8 reflines.
+E0816 11:05:54.340418 29852 raccoon_planning.cpp:143] update task context failed!
+E0816 11:05:54.343902 29854 raccoon_planning.cpp:143] update task context failed!
+E0816 11:05:54.436569 29851 astar_global_planner.cpp:41] Start point @ x: -5.01671 y: -7.58933 is out of costmap bound, Check it!
+E0816 11:05:54.436753 29851 raccoon_planning.cpp:143] update task context failed!
+E0816 11:05:56.743330 29853 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0816 11:05:57.907757 29853 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0816 11:09:47.818045 29853 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0816 11:09:47.877285 29853 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:48.081462 29851 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:48.285241 29854 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:48.475802 29853 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:48.701354 29852 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:48.883237 29854 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:49.078549 29851 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:49.279722 29854 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:49.502651 29853 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:49.713560 29851 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0816 11:09:49.921115 29853 raccoon_planning.cpp:498] recoveried by RecoveryPlanner

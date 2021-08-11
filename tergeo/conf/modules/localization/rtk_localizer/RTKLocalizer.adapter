@@ -1,0 +1,5 @@
+topic_config: {
+  name: "GpsInfoTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}

@@ -1,0 +1,7 @@
+Log file created at: 2020/08/26 14:25:08
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0826 14:25:08.569614 26492 frame.cpp:47] Loaded 10 areas.
+E0826 14:25:08.569783 26492 frame.cpp:48] Loaded 6 reflines.
+E0826 14:25:08.810094 26502 raccoon_planning.cpp:145] update task context failed!
+E0826 14:25:08.813472 26503 raccoon_planning.cpp:145] update task context failed!

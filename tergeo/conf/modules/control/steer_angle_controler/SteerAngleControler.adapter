@@ -1,0 +1,15 @@
+topic_config: {
+  name: "LocalizationTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "ChassisInfoTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}
+topic_config: {
+  name: "PlanningPathTopic"
+  mode: RECEIVE_ONLY
+  enable: true
+}

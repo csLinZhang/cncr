@@ -1,0 +1,11 @@
+
+topic_config: {
+  name: "ReferenceLineTopic"
+  mode: PUBLISH_ONLY
+  enable: true
+}
+topic_config: {
+  name: "CostmapImageTopic"
+  mode: PUBLISH_ONLY
+  enable: true
+}

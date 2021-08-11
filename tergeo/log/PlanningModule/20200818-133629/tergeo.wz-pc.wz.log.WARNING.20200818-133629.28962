@@ -1,0 +1,31 @@
+Log file created at: 2020/08/18 13:36:29
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0818 13:36:29.295117 28962 frame.cpp:47] Loaded 10 areas.
+E0818 13:36:29.295285 28962 frame.cpp:48] Loaded 5 reflines.
+E0818 13:36:29.472834 28995 raccoon_planning.cpp:143] update task context failed!
+E0818 13:36:29.475832 28997 raccoon_planning.cpp:143] update task context failed!
+E0818 13:36:29.568241 28995 costmap2d_context.cpp:114] Error update global layer: GlobalStaticLayer
+E0818 13:36:31.852574 28995 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0818 13:36:35.533450 28995 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0818 13:40:29.773986 28997 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:29.906103 28994 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.006603 28997 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.106889 28995 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.204147 28997 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.307245 28995 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.405596 28997 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.505578 28994 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.606356 28995 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.708400 28996 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.807135 28995 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:30.904209 28994 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.008486 28995 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.078730 28997 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.171559 28997 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.273981 28996 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.369244 28997 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.476590 28995 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.573864 28996 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.674019 28997 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0818 13:40:31.775743 28996 raccoon_planning.cpp:498] recoveried by RecoveryPlanner

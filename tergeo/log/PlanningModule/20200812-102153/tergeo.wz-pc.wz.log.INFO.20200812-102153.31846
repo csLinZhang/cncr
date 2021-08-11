@@ -1,0 +1,223 @@
+Log file created at: 2020/08/12 10:21:53
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0812 10:21:53.416807 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_camera_topic_adapter.so
+I0812 10:21:53.417176 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_control_topic_adapter.so
+I0812 10:21:53.417484 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_gps_topic_adapter.so
+I0812 10:21:53.417728 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_guardian_topic_adapter.so
+I0812 10:21:53.417959 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_imu_topic_adapter.so
+I0812 10:21:53.418685 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_lidar_topic_adapter.so
+I0812 10:21:53.419229 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_localization_topic_adapter.so
+I0812 10:21:53.419451 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_monitor_adapter_adapter.so
+I0812 10:21:53.420042 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_perception_topic_adapter.so
+I0812 10:21:53.420408 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_planning_topic_adapter.so
+I0812 10:21:53.420641 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_prediction_topic_adapter.so
+I0812 10:21:53.420938 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_ultrasonic_topic_adapter.so
+I0812 10:21:53.421648 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/adapter/libtergeo_plugin_vehicle_topic_adapter.so
+I0812 10:21:53.421949 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_car_like_model.so
+I0812 10:21:53.422159 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_differential_drive_model.so
+I0812 10:21:53.422331 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/common_plugin/vehicle_model/libtergeo_plugin_tricycle_model.so
+I0812 10:21:53.494225 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/tergeo_planning/libtergeo_plugin_planning_tergeo_planning.so
+I0812 10:21:53.511763 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_global_planner/libtergeo_plugin_planning_astar_global_planner.so
+I0812 10:21:53.514575 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/uturn_planner/libtergeo_plugin_planning_uturn_planner.so
+I0812 10:21:53.515846 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_obstacle_layer/libtergeo_plugin_costmap_global_obstacle_layer.so
+I0812 10:21:53.517886 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/recovery_planner/libtergeo_plugin_planning_recovery_planner.so
+I0812 10:21:53.519961 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/control_planning/libtergeo_plugin_planning_control_planning.so
+I0812 10:21:53.521463 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/back_recovery_planner/libtergeo_plugin_planning_back_recovery_planner.so
+I0812 10:21:53.523461 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/track_planner/libtergeo_plugin_planning_track_planner.so
+I0812 10:21:53.525561 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/hybrid_astar_planner/libtergeo_plugin_planning_hybrid_astar_planner.so
+I0812 10:21:53.527874 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/edgewise_planner/libtergeo_plugin_planning_edgewise_planner.so
+I0812 10:21:53.528182 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/planning_module/libtergeo_planning_module.so
+I0812 10:21:53.529525 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_static_layer/libtergeo_plugin_costmap_local_static_layer.so
+I0812 10:21:53.531525 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/astar_local_planner/libtergeo_plugin_planning_astar_local_planner.so
+I0812 10:21:53.532877 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/global_static_layer/libtergeo_plugin_costmap_global_static_layer.so
+I0812 10:21:53.534929 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/raccoon_planning/libtergeo_plugin_planning_raccoon_planning.so
+I0812 10:21:53.537245 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/teb_planner/libtergeo_plugin_planning_teb_planner.so
+I0812 10:21:53.538537 31846 plugin_loader.cpp:41] LOAD PLUGIN: /tergeo/modules/planning/local_obstacle_layer/libtergeo_plugin_costmap_local_obstacle_layer.so
+E0812 10:21:53.686169 31846 frame.cpp:47] Loaded 9 areas.
+E0812 10:21:53.686354 31846 frame.cpp:48] Loaded 5 reflines.
+E0812 10:21:53.777842 31855 raccoon_planning.cpp:143] update task context failed!
+E0812 10:21:53.780850 31857 raccoon_planning.cpp:143] update task context failed!
+E0812 10:21:53.873883 31858 astar_global_planner.cpp:41] Start point @ x: 6.66858 y: -9.51698 is out of costmap bound, Check it!
+E0812 10:21:53.874011 31858 raccoon_planning.cpp:143] update task context failed!
+E0812 10:21:57.551242 31857 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:21:58.946216 31857 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:21:59.608976 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:21:59.612762 31857 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:00.035627 31858 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:00.439978 31855 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:00.917109 31857 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:01.304188 31855 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:01.729059 31858 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:02.199928 31855 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:02.622083 31858 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:03.027789 31855 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:03.433640 31856 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:03.915246 31858 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:04.406410 31857 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:04.805886 31856 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:05.259089 31857 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:05.701246 31855 astar_global_planner.cpp:46] Goal point @ x: 9.7988 y: -14.6409 is out of costmap bound, Check it!
+E0812 10:22:06.097635 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:06.536670 31857 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:22:06.540483 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:06.960475 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:22:06.964825 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:07.407251 31857 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:22:07.410881 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:07.844652 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:22:07.848284 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:08.209146 31858 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:22:08.212692 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:08.634908 31857 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:22:08.639078 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:08.796501 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:08.931627 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:09.076759 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:09.211000 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:09.349123 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:09.493279 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:09.636229 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:09.773586 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:09.908751 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:10.053854 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:10.193960 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:10.313908 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:10.431548 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:10.576079 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:10.688621 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:10.794276 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:10.899087 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:11.033138 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:11.163889 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:11.293448 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:11.423424 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:11.553594 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:11.680776 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:11.807983 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:11.935822 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:12.065901 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:12.200044 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:12.329056 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:12.458169 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:12.586552 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:12.726598 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:12.857961 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:12.987879 31858 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:13.119541 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:13.242792 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:13.391237 31857 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:13.521847 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:13.660413 31855 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:13.783519 31856 astar_global_planner.cpp:46] Goal point @ x: 10.223 y: -15.5409 is out of costmap bound, Check it!
+E0812 10:22:45.747050 31857 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:22:45.831972 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:46.034718 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:22:46.113198 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:46.353294 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:46.574703 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:46.765527 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:46.949642 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:47.175422 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:47.375425 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:47.582886 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:47.770628 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:47.962007 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:22:48.239282 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:22:48.239408 31855 raccoon_planning.cpp:252] replan recovery failed!
+E0812 10:23:24.140544 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:24.289714 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:24.417935 31857 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:24.569793 31857 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:24.722285 31858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:24.906396 31858 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:25.074584 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:25.261924 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:25.397132 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:25.558701 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:25.687616 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:25.844529 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:26.006562 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:26.177798 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:26.327706 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:26.499483 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:26.649272 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:26.815662 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:26.941835 31857 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:27.099053 31857 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:27.254396 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:27.442649 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:27.606034 31858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:27.794318 31858 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:27.972272 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:28.164700 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:28.314422 31858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:28.500692 31858 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:28.671319 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:28.855608 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:28.985466 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:29.145048 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:29.294728 31858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:29.470835 31858 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:29.605834 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:29.766363 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:29.924214 31857 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:30.090375 31857 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:30.254595 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:30.407182 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:30.563649 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:30.719131 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:30.870586 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:31.034487 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:31.185130 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:31.371773 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:31.506888 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:31.669903 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:31.803869 31857 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:31.970875 31857 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:32.121649 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:32.299121 31856 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:32.432670 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:32.600864 31855 recovery_planner.cpp:148] RecoveryPlanner return abnormal result!
+E0812 10:23:58.868667 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:23:58.909134 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:23:59.079356 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:23:59.253964 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:23:59.426514 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:23:59.599045 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:23:59.766330 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:23:59.933506 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:00.101626 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:00.266520 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:00.449329 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:00.608111 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:00.774122 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:00.967204 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:11.392614 31858 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:24:11.455719 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:11.687351 31855 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:24:11.740751 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:11.940289 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:12.140094 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:12.341449 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:12.553418 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:12.768654 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:12.980624 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:13.183578 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:13.385670 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:13.588304 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:13.787180 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:55.719039 31856 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:24:55.768142 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:55.924247 31857 teb_planner.cpp:185] TEBPlanner return abnormal result!
+E0812 10:24:55.985383 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:56.164520 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:56.325763 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:56.509631 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:56.655814 31855 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:56.799486 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:56.967242 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:57.099584 31857 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:57.234591 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:57.388701 31858 raccoon_planning.cpp:498] recoveried by RecoveryPlanner
+E0812 10:24:57.529855 31856 raccoon_planning.cpp:498] recoveried by RecoveryPlanner

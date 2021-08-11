@@ -1,0 +1,7 @@
+Log file created at: 2020/08/06 09:25:36
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0806 09:25:36.369073  8393 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 39.55
+W0806 09:25:36.369406  8394 pure_persuit_controler.cpp:34] planning path is outdated!! delay time(s): 39.55
+W0806 09:27:05.221132  8393 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.
+W0806 09:27:05.269685  8394 pure_persuit_controler.cpp:120] control failed. maybe the planning path is not long enough.

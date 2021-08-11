@@ -1,0 +1,24 @@
+Log file created at: 2020/08/05 08:48:09
+Running on machine: wz-pc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0805 08:48:09.526820 15470 frame.cpp:47] Loaded 7 areas.
+E0805 08:48:09.526970 15470 frame.cpp:48] Loaded 2 reflines.
+E0805 08:48:09.628875 15478 frame.cpp:88] localization data is outdated!
+E0805 08:48:09.728816 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:09.828786 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:09.928791 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.028795 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.128805 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.228809 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.328802 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.428799 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.528798 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.628883 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.728803 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.828800 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:10.928794 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.028795 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.128803 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.228804 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.328797 15480 frame.cpp:88] localization data is outdated!
+E0805 08:48:11.428797 15480 frame.cpp:88] localization data is outdated!

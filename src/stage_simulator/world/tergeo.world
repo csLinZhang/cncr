@@ -1,0 +1,33 @@
+include "robots/carlike_robot.inc"
+include "obstacles/cube_obstacle.inc"
+
+resolution 0.05  # set the resolution of the underlying raytrace model in meters
+interval_sim 50  # simulation timestep in milliseconds
+
+window
+(
+  center [ 0.0 0.0 ]
+  rotate [ 0.0 0.0 ]
+  scale 20
+  show_data 1
+)
+
+
+# throw in a robot
+robot_tergeo
+(
+  pose [ 0.0 0.0 0.0 0.0 ] # xyza (a is angle, not radian)
+  name "tergeo"
+)
+
+# throw in obstacles
+cube_obstacle
+(
+  pose [ 2.0 2.0 0.0 0.0]
+  name "obstacle1"
+)
+cube_obstacle
+(
+  pose [ -2.0 -2.0 0.0 0.0]
+  name "obstacle2"
+)
